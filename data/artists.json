@@ -170,6 +170,16 @@
     "updated": true
   },
   {
+    "name": "Her's",
+    "debut": 2016,
+    "popularity": 56,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "JVKE",
     "debut": 2020,
     "popularity": 66,
@@ -542,22 +552,22 @@
   {
     "name": "TV Girl",
     "debut": 2013,
-    "popularity": 18,
+    "popularity": 2,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Hozier",
     "debut": 2013,
-    "popularity": 9,
+    "popularity": 13,
     "members": "Solo",
     "genre": "Indie",
     "country": "IE",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Troye Sivan",
@@ -743,6 +753,16 @@
     "name": "sombr",
     "debut": 2021,
     "popularity": 39,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "BoyWithUke",
+    "debut": 2021,
+    "popularity": 41,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -2700,6 +2720,46 @@
     "updated": true
   },
   {
+    "name": "Rina Sawayama",
+    "debut": 2013,
+    "popularity": 84,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Kero Kero Bonito",
+    "debut": 2013,
+    "popularity": 85,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Cults",
+    "debut": 2011,
+    "popularity": 87,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "mxmtoon",
+    "debut": 2017,
+    "popularity": 88,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "BETWEEN FRIENDS",
     "debut": 2017,
     "popularity": 142,
@@ -3082,12 +3142,12 @@
   {
     "name": "Noah Kahan",
     "debut": 2017,
-    "popularity": 76,
+    "popularity": 1,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Isabel LaRosa",
@@ -3147,6 +3207,16 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Lucy Dacus",
+    "debut": 2016,
+    "popularity": 44,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -4750,26 +4820,6 @@
     "updated": false
   },
   {
-    "name": "2CELLOS",
-    "debut": 2011,
-    "popularity": 160,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "HR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Richard Clayderman",
-    "debut": 1977,
-    "popularity": 161,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "d4vd",
     "debut": 2021,
     "popularity": 16,
@@ -4780,24 +4830,14 @@
     "updated": true
   },
   {
-    "name": "Maanu",
-    "debut": 2018,
-    "popularity": 182,
+    "name": "alex_g_offline",
+    "debut": 2023,
+    "popularity": 17,
     "members": "Solo",
     "genre": "Indie",
-    "country": "PK",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Alabama Shakes",
-    "debut": 2011,
-    "popularity": 196,
-    "members": "Group",
-    "genre": "Indie",
     "country": "US",
-    "gender": "Mixed",
-    "updated": false
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Ari Abdul",
@@ -4812,42 +4852,62 @@
   {
     "name": "Jack Stauber",
     "debut": 2013,
-    "popularity": 127,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "no na",
-    "debut": 2025,
-    "popularity": 128,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Rachel Platten",
-    "debut": 2011,
-    "popularity": 114,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female", 
-    "updated": false
-  },
-  {
-    "name": "blackbear",
-    "debut": 2013,
     "popularity": 36,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+    {
+    "name": "Jack Stauber's Micropop",
+    "debut": 2018,
+    "popularity": 37,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "blackbear",
+    "debut": 2013,
+    "popularity": 69,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Mk.gee",
+    "debut": 2018,
+    "popularity": 70,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Hot Mulligan",
+    "debut": 2015,
+    "popularity": 71,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Ichiko Aoba",
+    "debut": 2010,
+    "popularity": 72,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "JP",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Bleachers",
@@ -4860,104 +4920,14 @@
     "updated": false
   },
   {
-    "name": "Adie",
-    "debut": 2020,
-    "popularity": 156,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "PH",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Adrianne Lenker",
     "debut": 2014,
-    "popularity": 100,
+    "popularity": 20,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Adèle Castillon",
-    "debut": 2022,
-    "popularity": 198,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "FR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Madcon",
-    "debut": 2004,
-    "popularity": 142,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "NO",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Nadin Amizah",
-    "debut": 2018,
-    "popularity": 25,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Nadhif Basalamah",
-    "debut": 2018,
-    "popularity": 22,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Michael Kiwanuka",
-    "debut": 2012,
-    "popularity": 111,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "TIAGO IORC",
-    "debut": 2008,
-    "popularity": 117,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "BR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Arinaga Family",
-    "debut": 2020,
-    "popularity": 188,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Cannons",
-    "debut": 2014,
-    "popularity": 189,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "hannah bahng",
@@ -4966,6 +4936,16 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "AU",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "yeule",
+    "debut": 2014,
+    "popularity": 91,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "SG",
     "gender": "Female",
     "updated": true
   },
@@ -4982,12 +4962,12 @@
   {
     "name": "Clairo",
     "debut": 2017,
-    "popularity": 30,
+    "popularity": 6,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Rainbow Kitten Surprise",
@@ -5002,12 +4982,12 @@
   {
     "name": "AJR",
     "debut": 2013,
-    "popularity": 63,
+    "popularity": 27,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Alex Warren",
@@ -5022,12 +5002,12 @@
   {
     "name": "Alex G",
     "debut": 2010,
-    "popularity": 73,
+    "popularity": 7,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Lali",
@@ -5082,12 +5062,22 @@
   {
     "name": "Vance Joy",
     "debut": 2013,
-    "popularity": 47,
+    "popularity": 76,
     "members": "Solo",
     "genre": "Indie",
     "country": "AU",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Strawberry Guy",
+    "debut": 2018,
+    "popularity": 78,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Paolo Nutini",
@@ -5112,12 +5102,12 @@
   {
     "name": "Artemas",
     "debut": 2020,
-    "popularity": 59,
+    "popularity": 67,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Carla Morrison",
@@ -5192,12 +5182,12 @@
   {
     "name": "Glass Animals",
     "debut": 2012,
-    "popularity": 28,
+    "popularity": 31,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Natalia Lafourcade",
@@ -5282,22 +5272,22 @@
   {
     "name": "Cavetown",
     "debut": 2015,
-    "popularity": 121,
+    "popularity": 30,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "David Kushner",
     "debut": 2022,
-    "popularity": 50,
+    "popularity": 73,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Ed Maverick",
@@ -5342,12 +5332,12 @@
   {
     "name": "Faye Webster",
     "debut": 2013,
-    "popularity": 129,
+    "popularity": 11,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Jaymes Young",
@@ -5412,12 +5402,12 @@
   {
     "name": "Beach House",
     "debut": 2006,
-    "popularity": 76,
+    "popularity": 35,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "HUMBE",
@@ -5442,12 +5432,12 @@
   {
     "name": "Phoebe Bridgers",
     "debut": 2017,
-    "popularity": 74,
+    "popularity": 10,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Birdy",
@@ -5492,12 +5482,12 @@
   {
     "name": "Björk",
     "debut": 1990,
-    "popularity": 69,
+    "popularity": 28,
     "members": "Solo",
     "genre": "Indie",
     "country": "IS",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Quick Style",
@@ -5532,12 +5522,12 @@
   {
     "name": "Blood Orange",
     "debut": 2011,
-    "popularity": 147,
+    "popularity": 50,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Bon Iver",
@@ -5677,7 +5667,7 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Ricky Montgomery",
@@ -5686,6 +5676,16 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "grentperez",
+    "debut": 2021,
+    "popularity": 66,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "AU",
     "gender": "Male",
     "updated": true
   },
@@ -5722,12 +5722,12 @@
   {
     "name": "Cuco",
     "debut": 2016,
-    "popularity": 87,
+    "popularity": 45,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Lucy Hale",
@@ -5762,12 +5762,12 @@
   {
     "name": "Lorde",
     "debut": 2013,
-    "popularity": 15,
+    "popularity": 18,
     "members": "Solo",
     "genre": "Indie",
     "country": "NZ",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Monde des Titounis",
@@ -5842,12 +5842,12 @@
   {
     "name": "Eyedress",
     "debut": 2013,
-    "popularity": 113,
+    "popularity": 32,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Lindsey Stirling",
@@ -5882,12 +5882,12 @@
   {
     "name": "Empire Of The Sun",
     "debut": 2008,
-    "popularity": 19,
+    "popularity": 68,
     "members": "Group",
     "genre": "Indie",
     "country": "AU",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Jeremy Zucker",
@@ -5932,22 +5932,22 @@
   {
     "name": "Grimes",
     "debut": 2010,
-    "popularity": 89,
+    "popularity": 46,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Ethel Cain",
     "debut": 2019,
-    "popularity": 191,
+    "popularity": 21,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Julieta Venegas",
@@ -6012,12 +6012,22 @@
   {
     "name": "Rex Orange County",
     "debut": 2016,
-    "popularity": 53,
+    "popularity": 25,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Wallows",
+    "debut": 2017,
+    "popularity": 26,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "La Ley",
@@ -6062,12 +6072,22 @@
   {
     "name": "Sufjan Stevens",
     "debut": 2003,
-    "popularity": 90,
+    "popularity": 63,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "brakence",
+    "debut": 2017,
+    "popularity": 64,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "FKA twigs",
@@ -6082,12 +6102,12 @@
   {
     "name": "Florence + The Machine",
     "debut": 2009,
-    "popularity": 21,
+    "popularity": 38,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Fourtwnty",
@@ -6112,12 +6132,22 @@
   {
     "name": "Foster The People",
     "debut": 2011,
-    "popularity": 44,
+    "popularity": 74,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Bakar",
+    "debut": 2017,
+    "popularity": 75,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "fun.",
@@ -6132,22 +6162,42 @@
   {
     "name": "Imogen Heap",
     "debut": 1998,
-    "popularity": 51,
+    "popularity": 47,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
     "gender": "Female",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "glaive",
+    "debut": 2020,
+    "popularity": 48,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "girl in red",
     "debut": 2018,
-    "popularity": 52,
+    "popularity": 22,
     "members": "Solo",
     "genre": "Indie",
     "country": "NO",
     "gender": "Female",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Fiona Apple",
+    "debut": 1996,
+    "popularity": 23,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Pinguini Tattici Nucleari",
@@ -6222,12 +6272,42 @@
   {
     "name": "NIKI",
     "debut": 2017,
-    "popularity": 24,
+    "popularity": 79,
     "members": "Solo",
     "genre": "Indie",
     "country": "ID",
     "gender": "Female",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Penelope Scott",
+    "debut": 2020,
+    "popularity": 80,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Declan McKenna",
+    "debut": 2015,
+    "popularity": 81,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Jazmin Bean",
+    "debut": 2019,
+    "popularity": 82,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Ximena Sariñana",
@@ -6272,12 +6352,12 @@
   {
     "name": "Lizzy McAlpine",
     "debut": 2019,
-    "popularity": 57,
+    "popularity": 24,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Rizky Billar",
@@ -6302,12 +6382,22 @@
   {
     "name": "Suki Waterhouse",
     "debut": 2016,
-    "popularity": 143,
+    "popularity": 59,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Miracle Musical",
+    "debut": 2012,
+    "popularity": 60,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
   },
   {
     "name": "Lykke Li",
@@ -6347,17 +6437,27 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Men I Trust",
     "debut": 2014,
-    "popularity": 134,
+    "popularity": 33,
     "members": "Group",
     "genre": "Indie",
     "country": "CA",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Vacations",
+    "debut": 2015,
+    "popularity": 34,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "AU",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "SYML",
@@ -6432,12 +6532,22 @@
   {
     "name": "ROLE MODEL",
     "debut": 2017,
-    "popularity": 67,
+    "popularity": 51,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Jane Remover",
+    "debut": 2021,
+    "popularity": 52,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Rosa Linn",
@@ -8260,19 +8370,9 @@
     "updated": false
   },
   {
-    "name": "LIT killah",
-    "debut": 2018,
-    "popularity": 145,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Pouya",
     "debut": 2012,
-    "popularity": 145,
+    "popularity": 146,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -8692,12 +8792,22 @@
   {
     "name": "beabadoobee",
     "debut": 2017,
-    "popularity": 75,
+    "popularity": 4,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
     "gender": "Female",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Mac DeMarco",
+    "debut": 2012,
+    "popularity": 5,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "AC/DC",
@@ -10852,12 +10962,12 @@
   {
     "name": "Cocteau Twins",
     "debut": 1982,
-    "popularity": 211,
+    "popularity": 29,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Skye Newman",
