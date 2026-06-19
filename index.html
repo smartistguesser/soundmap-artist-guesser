@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MCKZR9Z1QV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MCKZR9Z1QV');
+  </script>
+
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+  <link rel="stylesheet" href="style.css" />
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2004354404606290"
+     crossorigin="anonymous"></script>
+  <link rel="icon" type="image/png" href="img/site_logo.png">
+<link rel="apple-touch-icon" href="img/site_logo.png">
+<meta name="msapplication-TileImage" content="img/site_logo.png">
+<meta name="msapplication-TileColor" content="#121212">
+
+  <!-- SEO / Search Console: explicit site name + description -->
+  <meta name="description" content="Soundmap Artist Guesser Helper — hints & guesses UI to narrow artists by debut, popularity, genre and more." />
+  <meta name="application-name" content="Soundmap Artist Guesser Helper" />
+  <meta property="og:site_name" content="Soundmap Artist Guesser Helper" />
+  <meta property="og:title" content="Soundmap Artist Guesser Helper" />
+  <meta property="og:description" content="Hints & guesses UI to find artists by debut year, popularity, genre and more." />
+  <meta property="og:type" content="website" />
+  <link rel="canonical" href="https://smartistguesser.github.io/soundmap-artist-guesser/" />
+  <meta name="robots" content="index,follow" />
+
+  <!-- Structured data: site/organization name (helps Search choose site label) -->
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"Soundmap Artist Guesser Helper",
+    "url":"https://smartistguesser.github.io/soundmap-artist-guesser/"
+  }
+  </script>
+</head>
+<body>
+  <div class="site-header"></div>
+   <header class="site-topbar" role="banner">
+     <div class="container">
+      <a class="brand" href="index.html" aria-label="Site title"></a>
+       <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="topNav">☰</button>
+       <nav id="topNav" class="topnav" aria-label="Main navigation" hidden>
+         <a href="index.html">Home</a>
+         <a href="about.html">About</a>
+         <a href="privacy.html">Privacy</a>
+         <a href="contact.html">Contact</a>
+       </nav>
+     </div>
+   </header>
+   <div class="layout">
+    <main>
+      <div class="site-logo">
+        <img src="img/sm-logo.png" alt="SM logo" />
+      </div>
+      <h1>Soundmap Artist Guesser Helper</h1>
+
+      <div class="notice-banner">
+        Seems like data got updated AGAIN. If an artist's name is <strong style="color:#1db954">GREEN</strong> then it's updated and reliable, white means old data. Please be patient with me. Please email <a href="mailto:smartistguesser@gmail.com">smartistguesser@gmail.com</a> to report incorrect/missing data OR just dm me on discord @guilherme.2965 if it's easier. Share the tool!
+      </div>
+      <div class="kofi-cta">
+        <div class="kofi-cta-text">
+          <strong>Enjoying the tool?</strong> Every little bit helps cover the domain and time spent updating the database.
+        </div>
+        <a href="https://ko-fi.com/smartistguesser" target="_blank" rel="noopener noreferrer" class="kofi-cta-btn">
+          <svg stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" height="18" width="18" xmlns="http://www.w3.org/2000/svg"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311zm6.173.478c-.928.116-1.682.028-1.682.028V7.284h1.77s1.971.551 1.971 2.638c0 1.913-.985 2.667-2.059 3.015z"></path></svg>
+          Support me on Ko-Fi
+        </a>
+      </div>
+      <section class="controls">
+        <div class="controls-bottom">
+          <h2>Hints</h2>
+          <!-- new area: appended hint cards will appear here -->
+          <div id="hintsContainer"></div>
+          <div class="add-btn-row">
+            <button id="openHintCard" class="open-hint-btn">Add Hint</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="guesses">
+        <h2>Guesses</h2>
+        <div id="guessesContainer"></div>
+        <div class="add-btn-row">
+          <button id="addGuessBtn" class="btn-add" hidden>Add Guess</button>
+        </div>
+      </section>
+
+      <div class="divider" role="separator" aria-hidden="true"></div>
+
+      <section class="best-match">
+        <h2>Best Match</h2>
+        <ul id="bestMatch" class="results"></ul>
+      </section>
+
+      <section class="results">
+        <h2>Matches (<span id="count">0</span>)</h2>
+        <ul id="resultsList"></ul>
+      </section>
+    </main>
+  </div>
+
+  <!-- dev note -->
+  <section class="thank-you">
+    <strong>Thank you for 3 MILLION requests 💚</strong>
+    <div class="sub">If the site has been useful please share with your Soundmap friends!</div>
+  </section>
+  
+  <!-- bottom banner ads 
+  <footer class="bottom-ads" aria-label="Advertisements">
+    <div class="ad-slot ad-banner" id="adBanner">
+      <ins class="adsbygoogle"
+           style="display:block"https://smartistguesser.github.io/soundmap-artist-guesser/
+           data-ad-client="ca-pub-2004354404606290"
+           data-ad-slot="DATA_AD_SLOT_BANNER"
+           data-ad-format="auto"
+           data-full-width-responsive="false"></ins>
+    </div>
+    <div class="ad-slot ad-box" id="adBox">
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-client="ca-pub-2004354404606290"
+           data-ad-slot="DATA_AD_SLOT_BOX"
+           data-ad-format="auto"
+           data-full-width-responsive="false"></ins>
+    </div>
+  </footer>
+  -->
+  <footer class="support-footer" aria-label="Support">
+    <div style="text-align:center;">
+      <a href="https://ko-fi.com/smartistguesser" target="_blank" rel="noopener noreferrer" class="kofi-btn" aria-label="Support me on Ko-Fi">
+        <svg stroke="currentColor" fill="currentColor" stroke-width="0" role="img" viewBox="0 0 24 24" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M23.881 8.948c-.773-4.085-4.859-4.593-4.859-4.593H.723c-.604 0-.679.798-.679.798s-.082 7.324-.022 11.822c.164 2.424 2.586 2.672 2.586 2.672s8.267-.023 11.966-.049c2.438-.426 2.683-2.566 2.658-3.734 4.352.24 7.422-2.831 6.649-6.916zm-11.062 3.511c-1.246 1.453-4.011 3.976-4.011 3.976s-.121.119-.31.023c-.076-.057-.108-.09-.108-.09-.443-.441-3.368-3.049-4.034-3.954-.709-.965-1.041-2.7-.091-3.71.951-1.01 3.005-1.086 4.363.407 0 0 1.565-1.782 3.468-.963 1.904.82 1.832 3.011.723 4.311zm6.173.478c-.928.116-1.682.028-1.682.028V7.284h1.77s1.971.551 1.971 2.638c0 1.913-.985 2.667-2.059 3.015z"></path></svg>
+        Support me on Ko-Fi
+      </a>
+    </div>
+  </footer>
+  <script>
+   (function(){
+     const t=document.getElementById('navToggle'), n=document.getElementById('topNav');
+     const brand = document.querySelector('.site-topbar .brand');
+     if (brand) brand.textContent = document.title;
+     if(!t||!n) return;
+     t.addEventListener('click',()=>{ const open = n.hasAttribute('hidden'); if(open){ n.removeAttribute('hidden'); t.setAttribute('aria-expanded','true'); } else { n.setAttribute('hidden',''); t.setAttribute('aria-expanded','false'); }});
+   })();
+    </script>
+  <script src="main.js"></script>
+  <title>Soundmap Artist Guesser Helper</title>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Privacy policy for the Soundmap Artist Guesser Helper." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="img/site_logo.png">
+  <link rel="apple-touch-icon" href="img/site_logo.png">
+  <meta name="msapplication-TileImage" content="img/site_logo.png">
+  <meta name="msapplication-TileColor" content="#121212">
+</head>
+<body>
+  <header class="site-topbar" role="banner">
+    <div class="container">
+      <a class="brand" href="index.html" aria-label="Site title"></a>
+      <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="topNav">☰</button>
+      <nav id="topNav" class="topnav" aria-label="Main navigation" hidden>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main style="max-width:900px;margin:28px auto;padding:18px;">
+    <h1>Privacy Policy</h1>
+
+    <p>The following describes how data is handled when you use this site.</p>
+
+    <h2>Data collection</h2>
+    <p>
+      The app uses a static JSON file to provide artist data. No user-submitted personal information is required to use the helper. The site does not transmit game data or guesses to any
+      external server as part of normal operation.
+    </p>
+
+    <h2>Analytics & third parties</h2>
+    <p>
+      Optional analytics or advertising scripts may be present in the future. These are
+      provided by third parties and are subject to their own policies. Use a
+      script blocker or browser privacy settings to avoid those. The site does not collect any information.
+    </p>
+
+    <h2>Contact & removal requests</h2>
+    <p>
+      For privacy questions please visit the <a href="contact.html">Contact</a> page.
+    </p>
+
+    <footer style="margin-top:18px;color:#8b8b8b;">
+      <small>Last updated: 2026-02-19</small>
+    </footer>
+  </main>
+
+  <script>
+    (function(){
+      const t=document.getElementById('navToggle'), n=document.getElementById('topNav');
+      const brand = document.querySelector('.site-topbar .brand');
+      if (brand) brand.textContent = document.title;
+      if(!t||!n) return;
+      t.addEventListener('click',()=>{
+        const open = n.hasAttribute('hidden');
+        if(open){ n.removeAttribute('hidden'); t.setAttribute('aria-expanded','true'); }
+        else{ n.setAttribute('hidden',''); t.setAttribute('aria-expanded','false'); }
+      });
+    })();
+  </script>
+  <title>Soundmap Artist Guesser Helper</title>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="Contact the maintainer of Soundmap Artist Guesser Helper." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="img/site_logo.png">
+  <link rel="apple-touch-icon" href="img/site_logo.png">
+  <meta name="msapplication-TileImage" content="img/site_logo.png">
+  <meta name="msapplication-TileColor" content="#121212">
+</head>
+<body>
+  <header class="site-topbar" role="banner">
+    <div class="container">
+      <a class="brand" href="index.html" aria-label="Site title"></a>
+      <button id="navToggle" class="nav-toggle" aria-expanded="false" aria-controls="topNav">☰</button>
+      <nav id="topNav" class="topnav" aria-label="Main navigation" hidden>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+  <main style="max-width:700px;margin:28px auto;padding:18px;">
+    <h1>Contact</h1>
+    <p>If you want to report incorrect data in the artist list, request removal, or submit feedback about the helper, please contact the maintainer:</p>
+
+    <ul>
+      <li>Email: <a href="mailto:smartistguesser@gmail.com">smartistguesser@gmail.com</a></li>
+    </ul>
+
+    <h2>Report an issue</h2>
+    <p>Please include:</p>
+    <ol>
+      <li>Page where the issue occurred (In case it's a coding issue).</li>
+      <li>Artist name (if data is incorrect) and suggested correction.</li>
+      <li>Optional screenshot and browser information.</li>
+    </ol>
+
+    <footer style="margin-top:18px;color:#8b8b8b;">
+      <small>Response times vary.</small>
+    </footer>
+  </main>
+  <script>
+    (function(){
+      const t=document.getElementById('navToggle'), n=document.getElementById('topNav');
+      const brand = document.querySelector('.site-topbar .brand');
+      if (brand) brand.textContent = document.title;
+      if(!t||!n) return;
+      t.addEventListener('click',()=>{
+        const open = n.hasAttribute('hidden');
+        if(open){ n.removeAttribute('hidden'); t.setAttribute('aria-expanded','true'); }
+        else{ n.setAttribute('hidden',''); t.setAttribute('aria-expanded','false'); }
+      });
+    })();
+  </script>
+  <title>Soundmap Artist Guesser Helper</title>
+</body>
+</html>

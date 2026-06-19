@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartistguesser.github.io/soundmap-artist-guesser/sitemap.xml
