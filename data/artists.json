@@ -942,12 +942,12 @@
   {
     "name": "Arctic Monkeys",
     "debut": 2005,
-    "popularity": 16,
+    "popularity": 1,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Spice Girls",
@@ -1042,7 +1042,7 @@
   {
     "name": "Kaash Paige",
     "debut": 2019,
-    "popularity": 169,
+    "popularity": 170,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -3532,7 +3532,7 @@
   {
     "name": "Aya Nakamura",
     "debut": 2016,
-    "popularity": 172,
+    "popularity": 171,
     "members": "Solo",
     "genre": "R&B",
     "country": "FR",
@@ -3542,7 +3542,7 @@
   {
     "name": "Musiq Soulchild",
     "debut": 2000,
-    "popularity": 171,
+    "popularity": 172,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -4632,7 +4632,7 @@
   {
     "name": "Little Mix",
     "debut": 2012,
-    "popularity": 120,
+    "popularity": 119,
     "members": "Group",
     "genre": "Pop",
     "country": "GB",
@@ -5072,7 +5072,7 @@
   {
     "name": "hannah bahng",
     "debut": 2023,
-    "popularity": 90,
+    "popularity": 91,
     "members": "Solo",
     "genre": "Indie",
     "country": "AU",
@@ -5082,7 +5082,7 @@
   {
     "name": "yeule",
     "debut": 2014,
-    "popularity": 91,
+    "popularity": 90,
     "members": "Solo",
     "genre": "Indie",
     "country": "SG",
@@ -5276,6 +5276,16 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "AU",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Joy Division",
+    "debut": 1979,
+    "popularity": 112,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
@@ -5568,26 +5578,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Jaymes Young",
-    "debut": 2013,
-    "popularity": 119,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Zeeba",
-    "debut": 2016,
-    "popularity": 97,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "BR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "BENEE",
@@ -6330,16 +6320,6 @@
     "updated": false
   },
   {
-    "name": "Two Feet",
-    "debut": 2016,
-    "popularity": 105,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Fitz and The Tantrums",
     "debut": 2009,
     "popularity": 194,
@@ -6872,7 +6852,7 @@
   {
     "name": "St. Vincent",
     "debut": 2007,
-    "popularity": 191,
+    "popularity": 192,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -8100,36 +8080,6 @@
     "updated": false
   },
   {
-    "name": "Malik Montana",
-    "debut": 2016,
-    "popularity": 193,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "PL",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Jul",
-    "debut": 2013,
-    "popularity": 80,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "La Santa Grifa",
-    "debut": 2017,
-    "popularity": 74,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "MX",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "NLE Choppa",
     "debut": 2018,
     "popularity": 56,
@@ -8587,7 +8537,7 @@
     "genre": "Rock",
     "country": "AU",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "WWE",
@@ -8622,12 +8572,12 @@
   {
     "name": "Radiohead",
     "debut": 1992,
-    "popularity": 11,
+    "popularity": 2,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Aerosmith",
@@ -8652,12 +8602,12 @@
   {
     "name": "Eagles",
     "debut": 1972,
-    "popularity": 43,
+    "popularity": 61,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Rage Against The Machine",
@@ -8762,22 +8712,22 @@
   {
     "name": "Alice In Chains",
     "debut": 1990,
-    "popularity": 70,
+    "popularity": 17,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Tame Impala",
     "debut": 2008,
-    "popularity": 18,
+    "popularity": 4,
     "members": "Solo",
     "genre": "Rock",
     "country": "AU",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Sam Fender",
@@ -8872,12 +8822,12 @@
   {
     "name": "Paramore",
     "debut": 2005,
-    "popularity": 33,
+    "popularity": 15,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Marilyn Manson",
@@ -9082,12 +9032,12 @@
   {
     "name": "Blur",
     "debut": 1991,
-    "popularity": 161,
+    "popularity": 63,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "YUNGBLUD",
@@ -9350,10 +9300,10 @@
     "updated": false
   },
   {
-    "name": "Christopher Cross",
-    "debut": 1979,
+    "name": "Steely Dan",
+    "debut": 1972,
     "popularity": 198,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
@@ -9362,12 +9312,12 @@
   {
     "name": "Daryl Hall & John Oates",
     "debut": 1970,
-    "popularity": 127,
+    "popularity": 134,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Kodaline",
@@ -9562,12 +9512,12 @@
   {
     "name": "Red Hot Chili Peppers",
     "debut": 1984,
-    "popularity": 10,
+    "popularity": 18,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Shinedown",
@@ -9577,17 +9527,17 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Weezer",
     "debut": 1996,
-    "popularity": 71,
+    "popularity": 19,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Poppy",
@@ -9602,12 +9552,12 @@
   {
     "name": "Queen",
     "debut": 1973,
-    "popularity": 5,
+    "popularity": 16,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Fleetwood Mac",
@@ -9652,12 +9602,12 @@
   {
     "name": "Green Day",
     "debut": 1991,
-    "popularity": 17,
+    "popularity": 10,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Jeff Buckley",
@@ -9872,22 +9822,22 @@
   {
     "name": "Gorillaz",
     "debut": 2001,
-    "popularity": 13,
+    "popularity": 14,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Goo Goo Dolls",
     "debut": 1987,
-    "popularity": 68,
+    "popularity": 186,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Kings of Leon",
@@ -10152,12 +10102,12 @@
   {
     "name": "Mitski",
     "debut": 2012,
-    "popularity": 66,
+    "popularity": 6,
     "members": "Solo",
     "genre": "Rock",
     "country": "JP",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Survivor",
@@ -10242,22 +10192,12 @@
   {
     "name": "Lynyrd Skynyrd",
     "debut": 1973,
-    "popularity": 78,
+    "popularity": 122,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "ONE OK ROCK",
-    "debut": 2007,
-    "popularity": 120,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "JP",
-    "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Nine Inch Nails",
@@ -10332,7 +10272,7 @@
   {
     "name": "The Postal Service",
     "debut": 2001,
-    "popularity": 192,
+    "popularity": 191,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -10462,12 +10402,12 @@
   {
     "name": "The Neighbourhood",
     "debut": 2012,
-    "popularity": 21,
+    "popularity": 5,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Lil Mosey",
