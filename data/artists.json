@@ -1375,7 +1375,7 @@
     "popularity": 146,
     "members": "Group",
     "genre": "R&B",
-    "country": "AU" ,
+    "country": "AU",
     "gender": "Mixed",
     "updated": true
   },
@@ -1470,26 +1470,6 @@
     "updated": true
   },
   {
-    "name": "Jay Sean",
-    "debut": 2004,
-    "popularity": 57,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Fridayy",
-    "debut": 2022,
-    "popularity": 116,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Bazzi",
     "debut": 2016,
     "popularity": 103,
@@ -1508,16 +1488,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Billy Ocean",
-    "debut": 1976,
-    "popularity": 113,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Black Pumas",
@@ -1600,26 +1570,6 @@
     "updated": true
   },
   {
-    "name": "Brian McKnight",
-    "debut": 1992,
-    "popularity": 104,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Monica",
-    "debut": 1994,
-    "popularity": 62,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Prince",
     "debut": 1978,
     "popularity": 27,
@@ -1628,26 +1578,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "CHIC",
-    "debut": 1977,
-    "popularity": 201,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Clyde McPhatter",
-    "debut": 2005,
-    "popularity": 202,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Chezile",
@@ -1680,16 +1610,6 @@
     "updated": true
   },
   {
-    "name": "Charlie Wilson",
-    "debut": 1992,
-    "popularity": 204,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Ciara",
     "debut": 2004,
     "popularity": 104,
@@ -1698,26 +1618,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "K-Ci & JoJo",
-    "debut": 1997,
-    "popularity": 161,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Jodeci",
-    "debut": 1991,
-    "popularity": 191,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Lucky Daye",
@@ -1738,26 +1638,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Eva",
-    "debut": 2019,
-    "popularity": 176,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "FR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Commodores",
-    "debut": 1974,
-    "popularity": 118,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Coco Jones",
@@ -1828,26 +1708,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Little Richard",
-    "debut": 1957,
-    "popularity": 125,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Dionne Warwick",
-    "debut": 1963,
-    "popularity": 154,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "BROCKHAMPTON",
@@ -1928,16 +1788,6 @@
     "country": "GB",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Seal",
-    "debut": 1991,
-    "popularity": 102,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "New Edition",
@@ -2060,16 +1910,6 @@
     "updated": true
   },
   {
-    "name": "Jennifer Hudson",
-    "debut": 2008,
-    "popularity": 119,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Leon Thomas",
     "debut": 2018,
     "popularity": 58,
@@ -2100,26 +1940,6 @@
     "updated": true
   },
   {
-    "name": "Eric Bellinger",
-    "debut": 2013,
-    "popularity": 200,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Keri Hilson",
-    "debut": 2008,
-    "popularity": 85,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "USHER",
     "debut": 1994,
     "popularity": 21,
@@ -2140,16 +1960,6 @@
     "updated": true
   },
   {
-    "name": "Estelle",
-    "debut": 2004,
-    "popularity": 153,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "keshi",
     "debut": 2017,
     "popularity": 23,
@@ -2168,16 +1978,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Jessie Reyez",
-    "debut": 2017,
-    "popularity": 88,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "CA",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Leslie Odom Jr.",
@@ -2230,26 +2030,6 @@
     "updated": true
   },
   {
-    "name": "Sevyn Streeter",
-    "debut": 2012,
-    "popularity": 177,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Cat Burns",
-    "debut": 2016,
-    "popularity": 178,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Steve Lacy",
     "debut": 2015,
     "popularity": 5,
@@ -2257,7 +2037,7 @@
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
-    "updated": true 
+    "updated": true
   },
   {
     "name": "Stevie Wonder",
@@ -2300,16 +2080,6 @@
     "updated": true
   },
   {
-    "name": "GIVĒON",
-    "debut": 2018,
-    "popularity": 22,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Ginuwine",
     "debut": 1996,
     "popularity": 124,
@@ -2330,26 +2100,6 @@
     "updated": true
   },
   {
-    "name": "Mon Rovîa",
-    "debut": 2020,
-    "popularity": 131,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Gloria Gaynor",
-    "debut": 1975,
-    "popularity": 140,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Jungle",
     "debut": 2013,
     "popularity": 61,
@@ -2358,16 +2108,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Gnarls Barkley",
-    "debut": 2006,
-    "popularity": 133,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Miguel",
@@ -2460,26 +2200,6 @@
     "updated": true
   },
   {
-    "name": "Trinidad Cardona",
-    "debut": 2017,
-    "popularity": 192,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "William Singe",
-    "debut": 2015,
-    "popularity": 181,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "AU",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Jill Scott",
     "debut": 2000,
     "popularity": 149,
@@ -2520,16 +2240,6 @@
     "updated": true
   },
   {
-    "name": "Imen Es",
-    "debut": 2018,
-    "popularity": 182,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "FR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Tim Maia",
     "debut": 1970,
     "popularity": 196,
@@ -2558,16 +2268,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Nina Sky",
-    "debut": 2004,
-    "popularity": 94,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Nina Simone",
@@ -2618,16 +2318,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Joe",
-    "debut": 1993,
-    "popularity": 160,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Jorja Smith",
@@ -2900,16 +2590,6 @@
     "updated": true
   },
   {
-    "name": "Toni Braxton",
-    "debut": 1993,
-    "popularity": 52,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Snoh Aalegra",
     "debut": 2014,
     "popularity": 86,
@@ -2970,26 +2650,6 @@
     "updated": true
   },
   {
-    "name": "The Pointer Sisters",
-    "debut": 1973,
-    "popularity": 196,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Mark Morrison",
-    "debut": 1996,
-    "popularity": 185,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Mary J. Blige",
     "debut": 1992,
     "popularity": 66,
@@ -3048,26 +2708,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "K. Michelle",
-    "debut": 2009,
-    "popularity": 168,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Bobby V.",
-    "debut": 2005,
-    "popularity": 169,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Rick James",
@@ -3337,7 +2977,7 @@
     "genre": "Pop",
     "country": "GB",
     "gender": "Male",
-    "updated": true 
+    "updated": true
   },
   {
     "name": "Camila Cabello",
@@ -3420,46 +3060,6 @@
     "updated": true
   },
   {
-    "name": "Mark Ronson",
-    "debut": 2003,
-    "popularity": 109,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Jason Derulo",
-    "debut": 2010,
-    "popularity": 30,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Jason Mraz",
-    "debut": 2002,
-    "popularity": 141,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Crash Adams",
-    "debut": 2019,
-    "popularity": 182,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "CA",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Tate McRae",
     "debut": 2017,
     "popularity": 20,
@@ -3479,7 +3079,7 @@
     "gender": "Female",
     "updated": true
   },
-    {
+  {
     "name": "KATSEYE",
     "debut": 2024,
     "popularity": 22,
@@ -3488,16 +3088,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Pentatonix",
-    "debut": 2012,
-    "popularity": 86,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "AURORA",
@@ -3518,26 +3108,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Dean Martin",
-    "debut": 1950,
-    "popularity": 149,
-    "members": "Solo",
-    "genre": "Classical & Jazz",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Laura Pausini",
-    "debut": 1993,
-    "popularity": 151,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "IT",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Laura Shigihara",
@@ -3578,16 +3148,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Davido",
-    "debut": 2011,
-    "popularity": 65,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "NG",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Shawn Mendes",
@@ -3638,16 +3198,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Robbie Williams",
-    "debut": 1997,
-    "popularity": 132,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Beyoncé",
@@ -3740,16 +3290,6 @@
     "updated": true
   },
   {
-    "name": "D Billions",
-    "debut": 2019,
-    "popularity": 103,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "KG",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Black Eyed Peas",
     "debut": 1998,
     "popularity": 71,
@@ -3758,16 +3298,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "KeBlack",
-    "debut": 2015,
-    "popularity": 199,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Britney Spears",
@@ -3790,26 +3320,6 @@
     "updated": true
   },
   {
-    "name": "Calum Scott",
-    "debut": 2017,
-    "popularity": 112,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bing Crosby",
-    "debut": 1932,
-    "popularity": 113,
-    "members": "Solo",
-    "genre": "Classical & Jazz",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Carly Rae Jepsen",
     "debut": 2008,
     "popularity": 108,
@@ -3818,16 +3328,6 @@
     "country": "CA",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Cher",
-    "debut": 1965,
-    "popularity": 173,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Christina Aguilera",
@@ -3870,16 +3370,6 @@
     "updated": true
   },
   {
-    "name": "Christina Perri",
-    "debut": 2011,
-    "popularity": 131,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Owl City",
     "debut": 2007,
     "popularity": 152,
@@ -3888,36 +3378,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Clean Bandit",
-    "debut": 2013,
-    "popularity": 93,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Conor Maynard",
-    "debut": 2012,
-    "popularity": 161,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Cyndi Lauper",
-    "debut": 1983,
-    "popularity": 127,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Teddy Swims",
@@ -3970,16 +3430,6 @@
     "updated": true
   },
   {
-    "name": "Dido",
-    "debut": 1999,
-    "popularity": 150,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Slayyyter",
     "debut": 2018,
     "popularity": 118,
@@ -3988,26 +3438,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Indila",
-    "debut": 2014,
-    "popularity": 114,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "FR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Yuridia",
-    "debut": 2005,
-    "popularity": 115,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Dove Cameron",
@@ -4020,16 +3450,6 @@
     "updated": true
   },
   {
-    "name": "Lyodra",
-    "debut": 2017,
-    "popularity": 143,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Sean Paul",
     "debut": 1999,
     "popularity": 189,
@@ -4038,16 +3458,6 @@
     "country": "JM",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Sean Kingston",
-    "debut": 2007,
-    "popularity": 98,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "JM",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Ed Sheeran",
@@ -4060,16 +3470,6 @@
     "updated": true
   },
   {
-    "name": "Squeezie",
-    "debut": 2019,
-    "popularity": 203,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Meghan Trainor",
     "debut": 2014,
     "popularity": 107,
@@ -4078,16 +3478,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Ellie Goulding",
-    "debut": 2010,
-    "popularity": 35,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Elton John",
@@ -4170,16 +3560,6 @@
     "updated": true
   },
   {
-    "name": "Kelly Rowland",
-    "debut": 2002,
-    "popularity": 147,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Kelly Clarkson",
     "debut": 2003,
     "popularity": 146,
@@ -4198,16 +3578,6 @@
     "country": "ES",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Jennifer Lopez",
-    "debut": 1999,
-    "popularity": 34,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "George Michael",
@@ -4230,16 +3600,6 @@
     "updated": true
   },
   {
-    "name": "Leona Lewis",
-    "debut": 2007,
-    "popularity": 177,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "OneRepublic",
     "debut": 2007,
     "popularity": 65,
@@ -4250,26 +3610,6 @@
     "updated": true
   },
   {
-    "name": "Eros Ramazzotti",
-    "debut": 1985,
-    "popularity": 124,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "IT",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Westlife",
-    "debut": 1999,
-    "popularity": 170,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "IE",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Kesha",
     "debut": 2009,
     "popularity": 42,
@@ -4278,16 +3618,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Raisa",
-    "debut": 2011,
-    "popularity": 138,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Isaiah Rashad",
@@ -4308,16 +3638,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Mete Kayagil",
-    "debut": 2023,
-    "popularity": 185,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "TR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Rojuu",
@@ -4450,36 +3770,6 @@
     "updated": true
   },
   {
-    "name": "Sofia Carson",
-    "debut": 2015,
-    "popularity": 206,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Frank Sinatra",
-    "debut": 1946,
-    "popularity": 82,
-    "members": "Solo",
-    "genre": "Classical & Jazz",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "GIMS",
-    "debut": 2013,
-    "popularity": 53,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Gwen Stefani",
     "debut": 2004,
     "popularity": 117,
@@ -4550,16 +3840,6 @@
     "updated": true
   },
   {
-    "name": "SIENNA SPIRO",
-    "debut": 2024,
-    "popularity": 85,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "John Mayer",
     "debut": 2001,
     "popularity": 98,
@@ -4588,16 +3868,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "John Newman",
-    "debut": 2013,
-    "popularity": 189,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Sia",
@@ -4720,16 +3990,6 @@
     "updated": true
   },
   {
-    "name": "Kizz Daniel",
-    "debut": 2015,
-    "popularity": 165,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "NG",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Justin Bieber",
     "debut": 2009,
     "popularity": 25,
@@ -4750,16 +4010,6 @@
     "updated": true
   },
   {
-    "name": "Lukas Graham",
-    "debut": 2016,
-    "popularity": 156,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "DK",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Luke Hemmings",
     "debut": 2021,
     "popularity": 83,
@@ -4768,16 +4018,6 @@
     "country": "AU",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Soolking",
-    "debut": 2016,
-    "popularity": 133,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "DZ",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Kate Bush",
@@ -4798,16 +4038,6 @@
     "country": "GB",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Lara Campos",
-    "debut": 2024,
-    "popularity": 104,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Lana Del Rey",
@@ -4848,26 +4078,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Music Travel Love",
-    "debut": 2016,
-    "popularity": 181,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "CA",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Myles Smith",
-    "debut": 2023,
-    "popularity": 139,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "One Direction",
@@ -4940,26 +4150,6 @@
     "updated": true
   },
   {
-    "name": "The Pussycat Dolls",
-    "debut": 2005,
-    "popularity": 136,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "charli d'amelio",
-    "debut": 2022,
-    "popularity": 188,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "EBK Jaaybo",
     "debut": 2018,
     "popularity": 186,
@@ -4968,36 +4158,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Andy Williams",
-    "debut": 1961,
-    "popularity": 187,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "a-ha",
-    "debut": 1985,
-    "popularity": 146,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "NO",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Céline Dion",
-    "debut": 1984,
-    "popularity": 49,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "CA",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "d4vd",
@@ -5039,7 +4199,7 @@
     "gender": "Male",
     "updated": true
   },
-    {
+  {
     "name": "Jack Stauber's Micropop",
     "debut": 2018,
     "popularity": 37,
@@ -5400,26 +4560,6 @@
     "updated": true
   },
   {
-    "name": "Nate Ruess",
-    "debut": 2015,
-    "popularity": 154,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Batas Senja",
-    "debut": 2017,
-    "popularity": 163,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "EKKSTACY",
     "debut": 2020,
     "popularity": 140,
@@ -5428,16 +4568,6 @@
     "country": "CA",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Matt Hansen",
-    "debut": 2021,
-    "popularity": 178,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "LATIN MAFIA",
@@ -5470,26 +4600,6 @@
     "updated": true
   },
   {
-    "name": "Patrick Watson",
-    "debut": 2003,
-    "popularity": 124,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "CA",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "AUR",
-    "debut": 2023,
-    "popularity": 159,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "PK",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Cavetown",
     "debut": 2015,
     "popularity": 30,
@@ -5520,36 +4630,6 @@
     "updated": true
   },
   {
-    "name": "Axel",
-    "debut": 1999,
-    "popularity": 152,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bella Kay",
-    "debut": 2025,
-    "popularity": 153,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "AU",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Payung Teduh",
-    "debut": 2010,
-    "popularity": 174,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "Faye Webster",
     "debut": 2013,
     "popularity": 11,
@@ -5570,36 +4650,6 @@
     "updated": true
   },
   {
-    "name": "Belanova",
-    "debut": 2003,
-    "popularity": 58,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Bernadya",
-    "debut": 2023,
-    "popularity": 31,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Ben&Ben",
-    "debut": 2016,
-    "popularity": 42,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "PH",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "Beach House",
     "debut": 2006,
     "popularity": 35,
@@ -5608,16 +4658,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "HUMBE",
-    "debut": 2018,
-    "popularity": 45,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Em Beihold",
@@ -5640,46 +4680,6 @@
     "updated": true
   },
   {
-    "name": "Birdy",
-    "debut": 2011,
-    "popularity": 46,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Bishop Briggs",
-    "debut": 2016,
-    "popularity": 186,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Wabie",
-    "debut": 2019,
-    "popularity": 187,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bibi Tatto",
-    "debut": 2015,
-    "popularity": 144,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "BR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Björk",
     "debut": 1990,
     "popularity": 28,
@@ -5688,16 +4688,6 @@
     "country": "IS",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "The Quick Style",
-    "debut": 2025,
-    "popularity": 70,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "NO",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Quinn XCII",
@@ -5800,26 +4790,6 @@
     "updated": true
   },
   {
-    "name": "Malcriada",
-    "debut": 2024,
-    "popularity": 177,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Kimbra",
-    "debut": 2011,
-    "popularity": 92,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Wilbur Soot",
     "debut": 2020,
     "popularity": 120,
@@ -5848,36 +4818,6 @@
     "country": "CA",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Kina",
-    "debut": 2018,
-    "popularity": 210,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Chance Peña",
-    "debut": 2015,
-    "popularity": 194,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Social Repose",
-    "debut": 2013,
-    "popularity": 137,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Cigarettes After Sex",
@@ -5910,36 +4850,6 @@
     "updated": true
   },
   {
-    "name": "PURPEECH",
-    "debut": 2021,
-    "popularity": 103,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "TH",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Jemsii",
-    "debut": 2022,
-    "popularity": 104,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Coez",
-    "debut": 2012,
-    "popularity": 122,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "IT",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Cuco",
     "debut": 2016,
     "popularity": 45,
@@ -5948,36 +4858,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Lucy Hale",
-    "debut": 2013,
-    "popularity": 190,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Sevdaliza",
-    "debut": 2015,
-    "popularity": 94,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "NL",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Siddhartha",
-    "debut": 2008,
-    "popularity": 65,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Lorde",
@@ -5990,46 +4870,6 @@
     "updated": true
   },
   {
-    "name": "Monde des Titounis",
-    "debut": 2017,
-    "popularity": 138,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Idgitaf",
-    "debut": 2020,
-    "popularity": 14,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Woodkid",
-    "debut": 2013,
-    "popularity": 171,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Sydney Rose",
-    "debut": 2020,
-    "popularity": 158,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Dominic Fike",
     "debut": 2018,
     "popularity": 19,
@@ -6040,26 +4880,6 @@
     "updated": true
   },
   {
-    "name": "London Grammar",
-    "debut": 2014,
-    "popularity": 168,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Feist",
-    "debut": 2004,
-    "popularity": 169,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "CA",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Eyedress",
     "debut": 2013,
     "popularity": 32,
@@ -6068,36 +4888,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Lindsey Stirling",
-    "debut": 2012,
-    "popularity": 32,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Ela Taubert",
-    "debut": 2019,
-    "popularity": 98,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "CO",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Elliot James Reay",
-    "debut": 2024,
-    "popularity": 181,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Empire Of The Sun",
@@ -6230,16 +5020,6 @@
     "updated": true
   },
   {
-    "name": "New West",
-    "debut": 2019,
-    "popularity": 140,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "CA",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "Xavier Wulf",
     "debut": 1997,
     "popularity": 108,
@@ -6278,16 +5058,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "La Ley",
-    "debut": 1991,
-    "popularity": 185,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "CL",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Fitz and The Tantrums",
@@ -6380,16 +5150,6 @@
     "updated": true
   },
   {
-    "name": "Fourtwnty",
-    "debut": 2015,
-    "popularity": 93,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Forrest Frank",
     "debut": 2023,
     "popularity": 61,
@@ -6478,16 +5238,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Pinguini Tattici Nucleari",
-    "debut": 2014,
-    "popularity": 106,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "IT",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Phantogram",
@@ -6740,16 +5490,6 @@
     "updated": true
   },
   {
-    "name": "BØRNS",
-    "debut": 2015,
-    "popularity": 183,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "A Tribe Called Quest",
     "debut": 1990,
     "popularity": 113,
@@ -6778,16 +5518,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Rosa Linn",
-    "debut": 2021,
-    "popularity": 157,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "AM",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Royel Otis",
@@ -6866,7 +5596,7 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Male", 
+    "gender": "Male",
     "updated": true
   },
   {
@@ -6928,16 +5658,6 @@
     "country": "SE",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Ati242",
-    "debut": 2019,
-    "popularity": 157,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "TR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "BabyChiefDoit",
@@ -7127,7 +5847,7 @@
     "genre": "HipHop",
     "country": "BR",
     "gender": "Male",
-    "updated":  true
+    "updated": true
   },
   {
     "name": "Danny Brown",
@@ -7137,7 +5857,7 @@
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
-    "updated":  true
+    "updated": true
   },
   {
     "name": "Yeat",
@@ -7460,16 +6180,6 @@
     "updated": true
   },
   {
-    "name": "Creepy Nuts",
-    "debut": 2016,
-    "popularity": 184,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "JP",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Kid Cudi",
     "debut": 2009,
     "popularity": 53,
@@ -7480,16 +6190,6 @@
     "updated": true
   },
   {
-    "name": "Juicy J",
-    "debut": 2002,
-    "popularity": 138,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Roddy Ricch",
     "debut": 2018,
     "popularity": 187,
@@ -7498,16 +6198,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Dei V",
-    "debut": 2020,
-    "popularity": 153,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "PR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Odetari",
@@ -7558,16 +6248,6 @@
     "country": "KR",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "SDM",
-    "debut": 2019,
-    "popularity": 173,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Doechii",
@@ -7640,46 +6320,6 @@
     "updated": true
   },
   {
-    "name": "KHEA",
-    "debut": 2017,
-    "popularity": 148,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Quevedo",
-    "debut": 2020,
-    "popularity": 94,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "ES",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "EsDeeKid",
-    "debut": 2024,
-    "popularity": 73,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Lefty Sm",
-    "debut": 2017,
-    "popularity": 170,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Megan Thee Stallion",
     "debut": 2017,
     "popularity": 82,
@@ -7708,16 +6348,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Aitch",
-    "debut": 2017,
-    "popularity": 200,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Metro Boomin",
@@ -7767,7 +6397,7 @@
     "genre": "HipHop",
     "country": "US",
     "gender": "Female",
-    "updated": true 
+    "updated": true
   },
   {
     "name": "G Herbo",
@@ -7980,16 +6610,6 @@
     "updated": true
   },
   {
-    "name": "Lil Yachty",
-    "debut": 2015,
-    "popularity": 125,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "King Von",
     "debut": 2018,
     "popularity": 38,
@@ -8008,16 +6628,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Niska",
-    "debut": 2015,
-    "popularity": 129,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Pouya",
@@ -8048,16 +6658,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Ja Rule",
-    "debut": 1999,
-    "popularity": 192,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "NLE Choppa",
@@ -8110,26 +6710,6 @@
     "updated": true
   },
   {
-    "name": "Soulja Boy",
-    "debut": 2007,
-    "popularity": 139,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Lyrical Lemonade",
-    "debut": 2023,
-    "popularity": 149,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "Lemon Demon",
     "debut": 2004,
     "popularity": 123,
@@ -8168,16 +6748,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "PNL",
-    "debut": 2015,
-    "popularity": 136,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "FR",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Snoop Dogg",
@@ -8220,16 +6790,6 @@
     "updated": true
   },
   {
-    "name": "Trueno",
-    "debut": 2017,
-    "popularity": 93,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "The Notorious B.I.G.",
     "debut": 1994,
     "popularity": 42,
@@ -8238,16 +6798,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Santa Fe Klan",
-    "debut": 2016,
-    "popularity": 75,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "YNW Melly",
@@ -8407,7 +6957,7 @@
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
-    "updated": true 
+    "updated": true
   },
   {
     "name": "Tyler, The Creator",
@@ -8420,16 +6970,6 @@
     "updated": true
   },
   {
-    "name": "Wale",
-    "debut": 2008,
-    "popularity": 119,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Wu-Tang Clan",
     "debut": 1992,
     "popularity": 94,
@@ -8438,16 +6978,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Eve",
-    "debut": 1999,
-    "popularity": 195,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "The 1975",
@@ -8489,7 +7019,7 @@
     "gender": "Male",
     "updated": true
   },
-    {
+  {
     "name": "Flyleaf",
     "debut": 2006,
     "popularity": 128,
@@ -8550,16 +7080,6 @@
     "updated": true
   },
   {
-    "name": "RADWIMPS",
-    "debut": 2005,
-    "popularity": 122,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "JP",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Radiohead",
     "debut": 1992,
     "popularity": 2,
@@ -8568,26 +7088,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Aerosmith",
-    "debut": 1973,
-    "popularity": 22,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Café Tacvba",
-    "debut": 1992,
-    "popularity": 133,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "MX",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Eagles",
@@ -8640,36 +7140,6 @@
     "updated": true
   },
   {
-    "name": "Chicago",
-    "debut": 1969,
-    "popularity": 136,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Caifanes",
-    "debut": 1988,
-    "popularity": 124,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "MX",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Train",
-    "debut": 1998,
-    "popularity": 81,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Staind",
     "debut": 1999,
     "popularity": 132,
@@ -8720,16 +7190,6 @@
     "updated": true
   },
   {
-    "name": "Alanis Morissette",
-    "debut": 1995,
-    "popularity": 139,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "CA",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Alice In Chains",
     "debut": 1990,
     "popularity": 17,
@@ -8770,36 +7230,6 @@
     "updated": true
   },
   {
-    "name": "Andrés Calamaro",
-    "debut": 1988,
-    "popularity": 178,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Crowded House",
-    "debut": 1986,
-    "popularity": 179,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "AU",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Maná",
-    "debut": 1990,
-    "popularity": 23,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Van Halen",
     "debut": 1978,
     "popularity": 65,
@@ -8828,36 +7258,6 @@
     "country": "GB",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Van Morrison",
-    "debut": 1967,
-    "popularity": 203,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Matchbox Twenty",
-    "debut": 1996,
-    "popularity": 204,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Outfield",
-    "debut": 1985,
-    "popularity": 205,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Paramore",
@@ -8890,26 +7290,6 @@
     "updated": true
   },
   {
-    "name": "Bastille",
-    "debut": 2012,
-    "popularity": 86,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Treaty Oak Revival",
-    "debut": 2021,
-    "popularity": 168,
-    "members": "Group",
-    "genre": "Country",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Audioslave",
     "debut": 2002,
     "popularity": 95,
@@ -8928,36 +7308,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Daughtry",
-    "debut": 2006,
-    "popularity": 173,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Paul Simon",
-    "debut": 1965,
-    "popularity": 201,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Our Last Night",
-    "debut": 2008,
-    "popularity": 202,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "David Bowie",
@@ -8988,46 +7338,6 @@
     "country": "KR",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Gustavo Cerati",
-    "debut": 1992,
-    "popularity": 131,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Hoobastank",
-    "debut": 2001,
-    "popularity": 147,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "X Ambassadors",
-    "debut": 2013,
-    "popularity": 176,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Beatles",
-    "debut": 1963,
-    "popularity": 9,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "The Beach Boys",
@@ -9068,26 +7378,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Billy Idol",
-    "debut": 1981,
-    "popularity": 89,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Blondie",
-    "debut": 1976,
-    "popularity": 103,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "blink-182",
@@ -9140,26 +7430,6 @@
     "updated": true
   },
   {
-    "name": "The Black Keys",
-    "debut": 2002,
-    "popularity": 184,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bob Seger",
-    "debut": 1969,
-    "popularity": 187,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Bon Jovi",
     "debut": 1984,
     "popularity": 105,
@@ -9178,46 +7448,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Bruce Springsteen",
-    "debut": 1973,
-    "popularity": 36,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bryan Adams",
-    "debut": 1980,
-    "popularity": 28,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "CA",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Hombres G",
-    "debut": 1983,
-    "popularity": 152,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "ES",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Bunbury",
-    "debut": 1997,
-    "popularity": 138,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "ES",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Incubus",
@@ -9278,26 +7508,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Counting Crows",
-    "debut": 1996,
-    "popularity": 180,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Scorpions",
-    "debut": 1972,
-    "popularity": 35,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "DE",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Creed",
@@ -9480,26 +7690,6 @@
     "updated": true
   },
   {
-    "name": "Kodaline",
-    "debut": 2013,
-    "popularity": 186,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "IE",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Deep Purple",
-    "debut": 1968,
-    "popularity": 158,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Def Leppard",
     "debut": 1979,
     "popularity": 104,
@@ -9670,16 +7860,6 @@
     "updated": true
   },
   {
-    "name": "Alter Bridge",
-    "debut": 2004,
-    "popularity": 194,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Duran Duran",
     "debut": 1981,
     "popularity": 174,
@@ -9688,26 +7868,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Heart",
-    "debut": 1975,
-    "popularity": 128,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Keane",
-    "debut": 2004,
-    "popularity": 67,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Pearl Jam",
@@ -9880,36 +8040,6 @@
     "updated": true
   },
   {
-    "name": "Neil Young",
-    "debut": 1969,
-    "popularity": 149,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "CA",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Neil Diamond",
-    "debut": 1966,
-    "popularity": 137,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Foreigner",
-    "debut": 1977,
-    "popularity": 93,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Fleshwater",
     "debut": 2020,
     "popularity": 140,
@@ -9918,26 +8048,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Lenny Kravitz",
-    "debut": 1989,
-    "popularity": 82,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Men At Work",
-    "debut": 1981,
-    "popularity": 148,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "AU",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "George Harrison",
@@ -9989,7 +8099,7 @@
     "gender": "Female",
     "updated": true
   },
- {
+  {
     "name": "Hotel Ugly",
     "debut": 2020,
     "popularity": 151,
@@ -9998,26 +8108,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "KALEO",
-    "debut": 2015,
-    "popularity": 164,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "IS",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Theo Von",
-    "debut": 2017,
-    "popularity": 185,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Superheaven",
@@ -10038,16 +8128,6 @@
     "country": "IE",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Europe",
-    "debut": 1983,
-    "popularity": 157,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "SE",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Evanescence",
@@ -10090,16 +8170,6 @@
     "updated": true
   },
   {
-    "name": "Mumford & Sons",
-    "debut": 2009,
-    "popularity": 85,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "MF DOOM",
     "debut": 1999,
     "popularity": 23,
@@ -10108,36 +8178,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Franz Ferdinand",
-    "debut": 2003,
-    "popularity": 177,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Fray",
-    "debut": 2005,
-    "popularity": 155,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Tokio Hotel",
-    "debut": 2006,
-    "popularity": 156,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "DE",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "MGMT",
@@ -10290,46 +8330,6 @@
     "updated": true
   },
   {
-    "name": "The Verve",
-    "debut": 1992,
-    "popularity": 121,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Script",
-    "debut": 2008,
-    "popularity": 53,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "IE",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Phil Collins",
-    "debut": 1981,
-    "popularity": 29,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Thirty Seconds To Mars",
-    "debut": 2002,
-    "popularity": 115,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "John Lennon",
     "debut": 1968,
     "popularity": 144,
@@ -10338,16 +8338,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "John Denver",
-    "debut": 1966,
-    "popularity": 167,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Three Days Grace",
@@ -10480,26 +8470,6 @@
     "updated": true
   },
   {
-    "name": "Simon & Garfunkel",
-    "debut": 1964,
-    "popularity": 154,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "INXS",
-    "debut": 1980,
-    "popularity": 145,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "AU",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Pink Floyd",
     "debut": 1967,
     "popularity": 24,
@@ -10520,16 +8490,6 @@
     "updated": true
   },
   {
-    "name": "Rise Against",
-    "debut": 2003,
-    "popularity": 192,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Mitski",
     "debut": 2012,
     "popularity": 6,
@@ -10538,16 +8498,6 @@
     "country": "JP",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Survivor",
-    "debut": 1979,
-    "popularity": 141,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Mom Jeans.",
@@ -10590,26 +8540,6 @@
     "updated": true
   },
   {
-    "name": "La Oreja de Van Gogh",
-    "debut": 1999,
-    "popularity": 62,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "ES",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "León Larregui",
-    "debut": 2012,
-    "popularity": 144,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "MX",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Lord Huron",
     "debut": 2010,
     "popularity": 185,
@@ -10618,16 +8548,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Molotov",
-    "debut": 1997,
-    "popularity": 183,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "MX",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Lynyrd Skynyrd",
@@ -10650,16 +8570,6 @@
     "updated": true
   },
   {
-    "name": "Snow Patrol",
-    "debut": 1998,
-    "popularity": 159,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Queens of the Stone Age",
     "debut": 1998,
     "popularity": 98,
@@ -10678,16 +8588,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "TOTO",
-    "debut": 1978,
-    "popularity": 64,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Panic! At The Disco",
@@ -10730,16 +8630,6 @@
     "updated": true
   },
   {
-    "name": "Charlie Brown Jr.",
-    "debut": 1997,
-    "popularity": 79,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "BR",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
     "name": "The Smiths",
     "debut": 1984,
     "popularity": 11,
@@ -10748,16 +8638,6 @@
     "country": "GB",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "4 Non Blondes",
-    "debut": 1992,
-    "popularity": 182,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "The Smashing Pumpkins",
@@ -10788,36 +8668,6 @@
     "country": "US",
     "gender": "Male",
     "updated": true
-  },
-  {
-    "name": "Chris Rea",
-    "debut": 1978,
-    "popularity": 166,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Who",
-    "debut": 1965,
-    "popularity": 170,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Chuck Berry",
-    "debut": 1957,
-    "popularity": 171,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "The White Stripes",
@@ -10930,76 +8780,6 @@
     "updated": true
   },
   {
-    "name": "Lil Mosey",
-    "debut": 2018,
-    "popularity": 208,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Snow tha Product",
-    "debut": 2013,
-    "popularity": 199,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "DYSTINCT",
-    "debut": 2017,
-    "popularity": 175,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "MA",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "FIZIstyle",
-    "debut": 2020,
-    "popularity": 87,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "CZ",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "XO TEAM",
-    "debut": 2021,
-    "popularity": 160,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "Theodora",
-    "debut": 2021,
-    "popularity": 210,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "FR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Yung Beef",
-    "debut": 2013,
-    "popularity": 158,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "ES",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Yung Lean",
     "debut": 2013,
     "popularity": 83,
@@ -11010,66 +8790,6 @@
     "updated": true
   },
   {
-    "name": "Tank",
-    "debut": 2001,
-    "popularity": 197,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Carla Thomas",
-    "debut": 1961,
-    "popularity": 166,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Trueblood",
-    "debut": 2025,
-    "popularity": 199,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Whitesnake",
-    "debut": 1978,
-    "popularity": 200,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Toosii",
-    "debut": 2017,
-    "popularity": 177,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Portugal. The Man",
-    "debut": 2006,
-    "popularity": 190,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Stevie Nicks",
     "debut": 1981,
     "popularity": 126,
@@ -11078,56 +8798,6 @@
     "country": "US",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "Trúc Nhâm",
-    "debut": 2014,
-    "popularity": 95,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "VN",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Silvana Estrada",
-    "debut": 2017,
-    "popularity": 205,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Rhye",
-    "debut": 2012,
-    "popularity": 202,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Reality Club",
-    "debut": 2017,
-    "popularity": 204,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Mixed",
-    "updated": false
-  },
-  {
-    "name": "TraLaLa - Cantece pentru copii",
-    "debut": 2018,
-    "popularity": 142,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "RO",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Boldy James",
@@ -11150,76 +8820,6 @@
     "updated": true
   },
   {
-    "name": "Shakin' Stevens",
-    "debut": 1980,
-    "popularity": 189,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Missy Elliott",
-    "debut": 1997,
-    "popularity": 185,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Hurts",
-    "debut": 2010,
-    "popularity": 208,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Pooh Shiesty",
-    "debut": 2019,
-    "popularity": 116,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Perunggu",
-    "debut": 2020,
-    "popularity": 72,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Pequeño Pez",
-    "debut": 2018,
-    "popularity": 197,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "AR",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "JADEN",
-    "debut": 2014,
-    "popularity": 190,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "Cocteau Twins",
     "debut": 1982,
     "popularity": 29,
@@ -11228,36 +8828,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Skye Newman",
-    "debut": 2025,
-    "popularity": 212,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Jamie Paige",
-    "debut": 2016,
-    "popularity": 195,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "manifest",
-    "debut": 2025,
-    "popularity": 101,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "TR",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Chevelle",
@@ -11288,26 +8858,6 @@
     "country": "US",
     "gender": "Mixed",
     "updated": true
-  },
-  {
-    "name": "Haftbefehl",
-    "debut": 2020,
-    "popularity": 205,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "DE",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "The Pretty Reckless",
-    "debut": 2010,
-    "popularity": 181,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
   },
   {
     "name": "Maya Hawke",

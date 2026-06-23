@@ -1,7 +1,7 @@
 import json
 
 # Path to the JSON file
-json_file_path = "/data/artists.json"
+json_file_path = "data/artists.json"
 
 # Load the JSON data
 with open(json_file_path, "r") as file:
