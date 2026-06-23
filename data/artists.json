@@ -210,6 +210,26 @@
     "updated": true
   },
   {
+    "name": "Car Seat Headrest",
+    "debut": 2011,
+    "popularity": 71,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Avril Lavigne",
+    "debut": 2011,
+    "popularity": 72,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "CA",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Taylor Swift",
     "debut": 2006,
     "popularity": 7,
@@ -227,6 +247,16 @@
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "sign crushes motorist",
+    "debut": 2022,
+    "popularity": 121,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IE",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -737,6 +767,56 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Slowdive",
+    "debut": 1991,
+    "popularity": 74,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Duster",
+    "debut": 1997,
+    "popularity": 75,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "my bloody valentine",
+    "debut": 1998,
+    "popularity": 76,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IE",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Elvis Presley",
+    "debut": 1956,
+    "popularity": 77,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Mother Mother",
+    "debut": 2007,
+    "popularity": 78,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "CA",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -1457,6 +1537,16 @@
     "genre": "Rock",
     "country": "GB",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Journey",
+    "debut": 1975,
+    "popularity": 119,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -2568,16 +2658,6 @@
     "country": "CO",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": "KC & The Sunshine Band",
-    "debut": 1974,
-    "popularity": 115,
-    "members": "Group",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": false
   },
   {
     "name": "Kool & The Gang",
@@ -6240,16 +6320,6 @@
     "updated": true
   },
   {
-    "name": "Julieta Venegas",
-    "debut": 1998,
-    "popularity": 20,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Kevin Kaarl",
     "debut": 2018,
     "popularity": 141,
@@ -8472,12 +8542,12 @@
   {
     "name": "The 1975",
     "debut": 2012,
-    "popularity": 73,
+    "popularity": 51,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Rush",
@@ -8492,22 +8562,32 @@
   {
     "name": "3 Doors Down",
     "debut": 2000,
-    "popularity": 69,
+    "popularity": 106,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Sum 41",
     "debut": 2000,
-    "popularity": 135,
+    "popularity": 127,
     "members": "Group",
     "genre": "Rock",
     "country": "CA",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+    {
+    "name": "Flyleaf",
+    "debut": 2006,
+    "popularity": 128,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
   },
   {
     "name": "beabadoobee",
@@ -8552,12 +8632,12 @@
   {
     "name": "Jack Johnson",
     "debut": 2003,
-    "popularity": 110,
+    "popularity": 129,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "RADWIMPS",
@@ -8607,6 +8687,16 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Mazzy Star",
+    "debut": 1990,
+    "popularity": 62,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -8672,12 +8762,22 @@
   {
     "name": "Staind",
     "debut": 1999,
-    "popularity": 160,
+    "popularity": 132,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "julie",
+    "debut": 2020,
+    "popularity": 133,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Fontaines D.C.",
@@ -8690,14 +8790,24 @@
     "updated": true
   },
   {
-    "name": "Breaking Benjamin",
-    "debut": 2002,
-    "popularity": 104,
+    "name": "The Front Bottoms",
+    "debut": 2011,
+    "popularity": 83,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Breaking Benjamin",
+    "debut": 2002,
+    "popularity": 81,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Alanis Morissette",
@@ -8790,6 +8900,26 @@
     "updated": true
   },
   {
+    "name": "Title Fight",
+    "debut": 2007,
+    "popularity": 67,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Panchiko",
+    "debut": 2000,
+    "popularity": 68,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
     "name": "Van Morrison",
     "debut": 1967,
     "popularity": 203,
@@ -8842,12 +8972,12 @@
   {
     "name": "Oasis",
     "debut": 1994,
-    "popularity": 15,
+    "popularity": 34,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Bastille",
@@ -8877,6 +9007,16 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Hole",
+    "debut": 1991,
+    "popularity": 96,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -8912,22 +9052,32 @@
   {
     "name": "David Bowie",
     "debut": 1967,
-    "popularity": 48,
+    "popularity": 41,
     "members": "Solo",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Sleeping With Sirens",
+    "debut": 2010,
+    "popularity": 42,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "wave to earth",
     "debut": 2019,
-    "popularity": 153,
+    "popularity": 49,
     "members": "Group",
     "genre": "Rock",
     "country": "KR",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Gustavo Cerati",
@@ -9022,12 +9172,12 @@
   {
     "name": "blink-182",
     "debut": 1994,
-    "popularity": 50,
+    "popularity": 27,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Blur",
@@ -9042,12 +9192,12 @@
   {
     "name": "YUNGBLUD",
     "debut": 2018,
-    "popularity": 32,
+    "popularity": 113,
     "members": "Solo",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Yuno Miles",
@@ -9092,22 +9242,22 @@
   {
     "name": "Bon Jovi",
     "debut": 1984,
-    "popularity": 12,
+    "popularity": 105,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Bob Dylan",
     "debut": 1962,
-    "popularity": 90,
+    "popularity": 103,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Bruce Springsteen",
@@ -9152,12 +9302,22 @@
   {
     "name": "Incubus",
     "debut": 1997,
-    "popularity": 163,
+    "popularity": 101,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Tally Hall",
+    "debut": 2005,
+    "popularity": 102,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Pierce The Veil",
@@ -9172,12 +9332,12 @@
   {
     "name": "Nickelback",
     "debut": 1996,
-    "popularity": 38,
+    "popularity": 50,
     "members": "Group",
     "genre": "Rock",
     "country": "CA",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Clash",
@@ -9192,12 +9352,12 @@
   {
     "name": "Coldplay",
     "debut": 1999,
-    "popularity": 1,
+    "popularity": 29,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Counting Crows",
@@ -9222,22 +9382,42 @@
   {
     "name": "Creed",
     "debut": 1997,
-    "popularity": 84,
+    "popularity": 37,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Creedence Clearwater Revival",
     "debut": 1968,
-    "popularity": 42,
+    "popularity": 90,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Kurt Cobain",
+    "debut": 2015,
+    "popularity": 91,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "The Backseat Lovers",
+    "debut": 2018,
+    "popularity": 92,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Denzel Curry",
@@ -9272,32 +9452,62 @@
   {
     "name": "The Cranberries",
     "debut": 1990,
-    "popularity": 37,
+    "popularity": 47,
     "members": "Group",
     "genre": "Rock",
     "country": "IE",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Electric Light Orchestra",
     "debut": 1971,
-    "popularity": 108,
+    "popularity": 136,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "All Time Low",
+    "debut": 2006,
+    "popularity": 137,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "The Sundays",
+    "debut": 1990,
+    "popularity": 138,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Will Wood and the Tapeworms",
+    "debut": 2015,
+    "popularity": 139,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "The Cure",
     "debut": 1979,
-    "popularity": 45,
+    "popularity": 26,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Steely Dan",
@@ -9313,6 +9523,16 @@
     "name": "Daryl Hall & John Oates",
     "debut": 1970,
     "popularity": 134,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "American Football",
+    "debut": 1998,
+    "popularity": 135,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -9342,12 +9562,12 @@
   {
     "name": "Def Leppard",
     "debut": 1979,
-    "popularity": 105,
+    "popularity": 104,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Depeche Mode",
@@ -9356,6 +9576,16 @@
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Current Joys",
+    "debut": 2013,
+    "popularity": 88,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -9372,12 +9602,12 @@
   {
     "name": "Disturbed",
     "debut": 2000,
-    "popularity": 63,
+    "popularity": 54,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Dire Straits",
@@ -9412,12 +9642,52 @@
   {
     "name": "The Doors",
     "debut": 1967,
-    "popularity": 95,
+    "popularity": 107,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Misfits",
+    "debut": 1984,
+    "popularity": 108,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Seether",
+    "debut": 2002,
+    "popularity": 109,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "ZA",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Wisp",
+    "debut": 2023,
+    "popularity": 110,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Hayley Williams",
+    "debut": 2020,
+    "popularity": 111,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Two Door Cinema Club",
@@ -9472,12 +9742,22 @@
   {
     "name": "Pearl Jam",
     "debut": 1991,
-    "popularity": 51,
+    "popularity": 39,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "boygenius",
+    "debut": 2018,
+    "popularity": 40,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
   },
   {
     "name": "Japanese Breakfast",
@@ -9492,22 +9772,22 @@
   {
     "name": "Tears For Fears",
     "debut": 1983,
-    "popularity": 61,
+    "popularity": 142,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Led Zeppelin",
     "debut": 1969,
-    "popularity": 41,
+    "popularity": 36,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Red Hot Chili Peppers",
@@ -9527,6 +9807,16 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Siouxsie and the Banshees",
+    "debut": 1978,
+    "popularity": 131,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -9562,12 +9852,12 @@
   {
     "name": "Fleetwood Mac",
     "debut": 1968,
-    "popularity": 20,
+    "popularity": 21,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Fleet Foxes",
@@ -9612,12 +9902,12 @@
   {
     "name": "Jeff Buckley",
     "debut": 1994,
-    "popularity": 143,
+    "popularity": 30,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Neil Young",
@@ -9682,12 +9972,62 @@
   {
     "name": "George Harrison",
     "debut": 1968,
-    "popularity": 27,
+    "popularity": 145,
     "members": "Solo",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "McCafferty",
+    "debut": 2014,
+    "popularity": 146,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "\"Weird Al\" Yankovic",
+    "debut": 1983,
+    "popularity": 147,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Black Veil Brides",
+    "debut": 2010,
+    "popularity": 148,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Julien Baker",
+    "debut": 2015,
+    "popularity": 149,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+ {
+    "name": "Hotel Ugly",
+    "debut": 2020,
+    "popularity": 151,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "KALEO",
@@ -9732,32 +10072,42 @@
   {
     "name": "Evanescence",
     "debut": 2003,
-    "popularity": 25,
+    "popularity": 38,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Mötley Crüe",
     "debut": 1981,
-    "popularity": 111,
+    "popularity": 79,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Mindless Self Indulgence",
+    "debut": 2000,
+    "popularity": 80,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Foo Fighters",
     "debut": 1995,
-    "popularity": 34,
+    "popularity": 22,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Mumford & Sons",
@@ -9812,12 +10162,12 @@
   {
     "name": "MGMT",
     "debut": 2005,
-    "popularity": 100,
+    "popularity": 84,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Gorillaz",
@@ -9872,22 +10222,32 @@
   {
     "name": "The Strokes",
     "debut": 2001,
-    "popularity": 88,
+    "popularity": 28,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Lumineers",
     "debut": 2012,
-    "popularity": 97,
+    "popularity": 85,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Måneskin",
+    "debut": 2017,
+    "popularity": 86,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IT",
+    "gender": "Mixed",
+    "updated": true
   },
   {
     "name": "The Lonely Island",
@@ -9942,12 +10302,12 @@
   {
     "name": "John Lennon",
     "debut": 1968,
-    "popularity": 74,
+    "popularity": 144,
     "members": "Solo",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "John Denver",
@@ -9962,22 +10322,22 @@
   {
     "name": "Three Days Grace",
     "debut": 2003,
-    "popularity": 52,
+    "popularity": 35,
     "members": "Group",
     "genre": "Rock",
     "country": "CA",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Pixies",
     "debut": 1987,
-    "popularity": 174,
+    "popularity": 93,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "WILLOW",
@@ -9990,14 +10350,54 @@
     "updated": true
   },
   {
-    "name": "Milky Chance",
-    "debut": 2013,
-    "popularity": 162,
+    "name": "Hollywood Undead",
+    "debut": 2008,
+    "popularity": 153,
     "members": "Group",
     "genre": "Rock",
-    "country": "DE",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Good Kid",
+    "debut": 2015,
+    "popularity": 154,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "CA",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "The Cardigans",
+    "debut": 1994,
+    "popularity": 155,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "SE",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "salvia plath",
+    "debut": 2013,
+    "popularity": 156,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "NZ",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "She Wants Revenge",
+    "debut": 2005,
+    "popularity": 157,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Ghostemane",
@@ -10042,12 +10442,12 @@
   {
     "name": "Jimi Hendrix",
     "debut": 1967,
-    "popularity": 117,
+    "popularity": 89,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Simon & Garfunkel",
@@ -10072,12 +10472,12 @@
   {
     "name": "Pink Floyd",
     "debut": 1967,
-    "popularity": 19,
+    "popularity": 24,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Nirvana",
@@ -10127,6 +10527,16 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Big Thief",
+    "debut": 2016,
+    "popularity": 58,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -10202,12 +10612,12 @@
   {
     "name": "Nine Inch Nails",
     "debut": 1989,
-    "popularity": 146,
+    "popularity": 69,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Snow Patrol",
@@ -10222,12 +10632,12 @@
   {
     "name": "Queens of the Stone Age",
     "debut": 1998,
-    "popularity": 142,
+    "popularity": 98,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "TOOL",
@@ -10252,22 +10662,22 @@
   {
     "name": "Panic! At The Disco",
     "debut": 2005,
-    "popularity": 59,
+    "popularity": 23,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Police",
     "debut": 1978,
-    "popularity": 24,
+    "popularity": 125,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Postal Service",
@@ -10322,22 +10732,32 @@
   {
     "name": "The Smashing Pumpkins",
     "debut": 1991,
-    "popularity": 80,
+    "popularity": 25,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Stone Temple Pilots",
     "debut": 1992,
-    "popularity": 165,
+    "popularity": 59,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Elliott Smith",
+    "debut": 1995,
+    "popularity": 60,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Chris Rea",
@@ -10392,12 +10812,12 @@
   {
     "name": "The All-American Rejects",
     "debut": 2002,
-    "popularity": 169,
+    "popularity": 159,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Neighbourhood",
@@ -10552,12 +10972,12 @@
   {
     "name": "Stevie Nicks",
     "debut": 1981,
-    "popularity": 191,
+    "popularity": 126,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Female",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Trúc Nhâm",
@@ -10742,22 +11162,32 @@
   {
     "name": "Chevelle",
     "debut": 1999,
-    "popularity": 207,
+    "popularity": 99,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Will Wood",
+    "debut": 2020,
+    "popularity": 100,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Talking Heads",
     "debut": 1977,
-    "popularity": 208,
+    "popularity": 114,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Haftbefehl",
