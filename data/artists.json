@@ -2640,16 +2640,6 @@
     "updated": true
   },
   {
-    "name": "Justine Skye",
-    "debut": 2013,
-    "popularity": 157,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Kali Uchis",
     "debut": 2015,
     "popularity": 8,
@@ -3700,24 +3690,14 @@
     "updated": true
   },
   {
-    "name": "Bella Poarch",
-    "debut": 2022,
-    "popularity": 208,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "benny blanco",
-    "debut": 2018,
-    "popularity": 167,
-    "members": "Solo",
+    "name": "The Garden",
+    "debut": 2012,
+    "popularity": 196,
+    "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Bebe Rexha",
@@ -5300,56 +5280,6 @@
     "updated": true
   },
   {
-    "name": "Lali",
-    "debut": 2014,
-    "popularity": 55,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "AR",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Amy Macdonald",
-    "debut": 2007,
-    "popularity": 133,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Amiel Sol",
-    "debut": 2020,
-    "popularity": 175,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "PH",
-    "gender": "Female",
-    "updated": false
-  },
-  {
-    "name": "Pamungkas",
-    "debut": 2018,
-    "popularity": 54,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Male",
-    "updated": false
-  },
-  {
-    "name": "Santigold",
-    "debut": 2008,
-    "popularity": 203,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Vance Joy",
     "debut": 2013,
     "popularity": 76,
@@ -5400,16 +5330,6 @@
     "updated": true
   },
   {
-    "name": "Carla Morrison",
-    "debut": 2010,
-    "popularity": 35,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Female",
-    "updated": false
-  },
-  {
     "name": "Paris Paloma",
     "debut": 2020,
     "popularity": 128,
@@ -5450,16 +5370,6 @@
     "updated": true
   },
   {
-    "name": "Hasan Raheem",
-    "debut": 2018,
-    "popularity": 110,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "PK",
-    "gender": "Male",
-    "updated": false
-  },
-  {
     "name": "MICO",
     "debut": 2020,
     "popularity": 108,
@@ -5468,16 +5378,6 @@
     "country": "CA",
     "gender": "Female",
     "updated": true
-  },
-  {
-    "name": ".Feast",
-    "debut": 2017,
-    "popularity": 27,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ID",
-    "gender": "Male",
-    "updated": false
   },
   {
     "name": "Glass Animals",
@@ -6912,7 +6812,17 @@
   {
     "name": "The Used",
     "debut": 2002,
-    "popularity": 170,
+    "popularity": 171,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "VIOLENT VIRA",
+    "debut": 2021,
+    "popularity": 173,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -7372,12 +7282,12 @@
   {
     "name": "Ice Cube",
     "debut": 1990,
-    "popularity": 76,
+    "popularity": 54,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Juice WRLD",
@@ -8842,12 +8752,12 @@
   {
     "name": "Sam Fender",
     "debut": 2017,
-    "popularity": 126,
+    "popularity": 175,
     "members": "Solo",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Sammy Rae & The Friends",
@@ -8962,12 +8872,12 @@
   {
     "name": "Marilyn Manson",
     "debut": 1994,
-    "popularity": 99,
+    "popularity": 181,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Oasis",
@@ -9137,6 +9047,16 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Pinegrove",
+    "debut": 2015,
+    "popularity": 180,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -9342,12 +9262,12 @@
   {
     "name": "The Clash",
     "debut": 1977,
-    "popularity": 98,
+    "popularity": 170,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Coldplay",
@@ -9517,7 +9437,27 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "The Last Dinner Party",
+    "debut": 2023,
+    "popularity": 199,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Modest Mouse",
+    "debut": 1996,
+    "popularity": 200,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
   },
   {
     "name": "Daryl Hall & John Oates",
@@ -9612,12 +9552,32 @@
   {
     "name": "Dire Straits",
     "debut": 1978,
-    "popularity": 31,
+    "popularity": 176,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Surf Curse",
+    "debut": 2015,
+    "popularity": 177,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "King Gizzard & The Lizard Wizard",
+    "debut": 2011,
+    "popularity": 178,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "AU",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Djo",
@@ -9632,12 +9592,12 @@
   {
     "name": "No Doubt",
     "debut": 1992,
-    "popularity": 106,
+    "popularity": 197,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The Doors",
@@ -9693,6 +9653,16 @@
     "name": "Two Door Cinema Club",
     "debut": 2009,
     "popularity": 182,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Bauhaus",
+    "debut": 1980,
+    "popularity": 183,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
@@ -10050,14 +10020,24 @@
     "updated": false
   },
   {
-    "name": "Supertramp",
-    "debut": 1974,
-    "popularity": 175,
+    "name": "Superheaven",
+    "debut": 2013,
+    "popularity": 193,
     "members": "Group",
     "genre": "Rock",
-    "country": "GB",
+    "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "Inhaler",
+    "debut": 2018,
+    "popularity": 194,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IE",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Europe",
@@ -10190,14 +10170,64 @@
     "updated": true
   },
   {
+    "name": "Grateful Dead",
+    "debut": 1967,
+    "popularity": 187,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
     "name": "Kings of Leon",
     "debut": 2003,
-    "popularity": 49,
+    "popularity": 165,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
+  },
+  {
+    "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+    "debut": 2017,
+    "popularity": 166,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "The Stone Roses",
+    "debut": 1987,
+    "popularity": 167,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "James Marriott",
+    "debut": 2020,
+    "popularity": 168,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Have A Nice Life",
+    "debut": 2007,
+    "popularity": 169,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
   },
   {
     "name": "Guns N' Roses",
@@ -10582,12 +10612,12 @@
   {
     "name": "Lord Huron",
     "debut": 2010,
-    "popularity": 118,
+    "popularity": 185,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "Molotov",
@@ -10792,7 +10822,47 @@
   {
     "name": "The White Stripes",
     "debut": 1998,
-    "popularity": 187,
+    "popularity": 188,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Catfish and the Bottlemen",
+    "debut": 2014,
+    "popularity": 189,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Gerard Way",
+    "debut": 2014,
+    "popularity": 190,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "DUCKBOY",
+    "debut": 2023,
+    "popularity": 191,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "A Perfect Circle",
+    "debut": 2000,
+    "popularity": 192,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -10802,12 +10872,12 @@
   {
     "name": "R.E.M.",
     "debut": 1981,
-    "popularity": 83,
+    "popularity": 164,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
-    "updated": false
+    "updated": true
   },
   {
     "name": "The All-American Rejects",
@@ -10817,6 +10887,36 @@
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Set It Off",
+    "debut": 2008,
+    "popularity": 160,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "King Krule",
+    "debut": 2011,
+    "popularity": 161,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Whirr",
+    "debut": 2010,
+    "popularity": 162,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
