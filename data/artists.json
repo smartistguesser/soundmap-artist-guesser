@@ -3060,6 +3060,16 @@
     "updated": true
   },
   {
+    "name": "Mariah Carey",
+    "debut": 1990,
+    "popularity": 76,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Tate McRae",
     "debut": 2017,
     "popularity": 20,
@@ -3135,6 +3145,16 @@
     "popularity": 161,
     "members": "Solo",
     "genre": "Indie",
+    "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Ellie Goulding",
+    "debut": 2010,
+    "popularity": 125,
+    "members": "Solo",
+    "genre": "Pop",
     "country": "GB",
     "gender": "Female",
     "updated": true
@@ -5072,7 +5092,7 @@
   {
     "name": "hard life",
     "debut": 2017,
-    "popularity": 195,
+    "popularity": 196,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
@@ -5082,7 +5102,7 @@
   {
     "name": "King Princess",
     "debut": 2018,
-    "popularity": 196,
+    "popularity": 197,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5092,7 +5112,7 @@
   {
     "name": "Dead Calm",
     "debut": 2023,
-    "popularity": 197,
+    "popularity": 195,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
