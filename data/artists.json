@@ -75,7 +75,7 @@
     "popularity": 152,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "US",
+    "country": "JP",
     "gender": "Male",
     "updated": true
   },
@@ -692,7 +692,7 @@
   {
     "name": "Twenty One Pilots",
     "debut": 2009,
-    "popularity": 9,
+    "popularity": 8,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -1162,7 +1162,7 @@
   {
     "name": "Bladee",
     "debut": 2014,
-    "popularity": 71,
+    "popularity": 70,
     "members": "Solo",
     "genre": "HipHop",
     "country": "SE",
@@ -2132,7 +2132,7 @@
   {
     "name": "Pharrell Williams",
     "debut": 2005,
-    "popularity": 17,
+    "popularity": 18,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -2372,7 +2372,7 @@
   {
     "name": "Malcolm Todd",
     "debut": 2022,
-    "popularity": 18,
+    "popularity": 17,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -3392,7 +3392,7 @@
   {
     "name": "Owl City",
     "debut": 2007,
-    "popularity": 152,
+    "popularity": 154,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -4162,7 +4162,7 @@
   {
     "name": "Tove Lo",
     "debut": 2014,
-    "popularity": 154,
+    "popularity": 155,
     "members": "Solo",
     "genre": "Pop",
     "country": "SE",
@@ -4712,7 +4712,7 @@
   {
     "name": "Quinn XCII",
     "debut": 2015,
-    "popularity": 155,
+    "popularity": 157,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -4842,7 +4842,7 @@
   {
     "name": "Cigarettes After Sex",
     "debut": 2012,
-    "popularity": 8,
+    "popularity": 9,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5690,7 +5690,7 @@
     "updated": true
   },
   {
-    "name": "Emotional Changes",
+    "name": "Emotional Oranges",
     "debut": 2019,
     "popularity": 154,
     "members": "Group",
@@ -5932,7 +5932,7 @@
   {
     "name": "Eazy-E",
     "debut": 1988,
-    "popularity": 70,
+    "popularity": 71,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -6232,7 +6232,7 @@
   {
     "name": "DMX",
     "debut": 1993,
-    "popularity": 191,
+    "popularity": 190,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -7292,7 +7292,7 @@
   {
     "name": "Marilyn Manson",
     "debut": 1994,
-    "popularity": 181,
+    "popularity": 182,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
@@ -7862,7 +7862,7 @@
   {
     "name": "Two Door Cinema Club",
     "debut": 2009,
-    "popularity": 182,
+    "popularity": 181,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
