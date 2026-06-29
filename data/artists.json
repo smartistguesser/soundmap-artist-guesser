@@ -173,7 +173,7 @@
     "name": "Her's",
     "debut": 2016,
     "popularity": 56,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Indie",
     "country": "GB",
     "gender": "Male",
@@ -3264,7 +3264,7 @@
     "debut": 2012,
     "popularity": 196,
     "members": "Group",
-    "genre": "Pop",
+    "genre": "Rock",
     "country": "US",
     "gender": "Male",
     "updated": true
@@ -4682,7 +4682,7 @@
   {
     "name": "Em Beihold",
     "debut": 2017,
-    "popularity": 198,
+    "popularity": 199,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5262,7 +5262,7 @@
   {
     "name": "Phantogram",
     "debut": 2010,
-    "popularity": 199,
+    "popularity": 198,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5576,7 +5576,7 @@
     "members": "Group",
     "genre": "Rock",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
