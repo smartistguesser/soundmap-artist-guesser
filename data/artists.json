@@ -1522,7 +1522,7 @@
   {
     "name": "Boyz II Men",
     "debut": 1994,
-    "popularity": 88,
+    "popularity": 87,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
@@ -1541,12 +1541,12 @@
   },
   {
     "name": "Chase Shakur",
-    "debut": 19,
+    "debut": 2018,
     "popularity": 94,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "name": "Queen Naija",
     "debut": 2018,
-    "popularity": 87,
+    "popularity": 88,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -2462,7 +2462,7 @@
   {
     "name": "MUNA",
     "debut": 2016,
-    "popularity": 83,
+    "popularity": 84,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -2472,7 +2472,7 @@
   {
     "name": "Rina Sawayama",
     "debut": 2013,
-    "popularity": 84,
+    "popularity": 83,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -2482,7 +2482,7 @@
   {
     "name": "Kero Kero Bonito",
     "debut": 2013,
-    "popularity": 85,
+    "popularity": 86,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
