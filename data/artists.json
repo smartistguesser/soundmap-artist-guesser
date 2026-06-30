@@ -292,7 +292,7 @@
   {
     "name": "starfall",
     "debut": 2021,
-    "popularity": 127,
+    "popularity": 128,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -1862,7 +1862,7 @@
   {
     "name": "Kelela",
     "debut": 2013,
-    "popularity": 128,
+    "popularity": 129,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -2142,7 +2142,7 @@
   {
     "name": "The Jacksons",
     "debut": 1976,
-    "popularity": 129,
+    "popularity": 127,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
@@ -4766,7 +4766,7 @@
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -4786,7 +4786,7 @@
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -6223,6 +6223,16 @@
     "name": "Odetari",
     "debut": 2023,
     "popularity": 111,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "BONES",
+    "debut": 2013,
+    "popularity": 112,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
