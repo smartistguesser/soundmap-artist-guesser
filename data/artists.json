@@ -1960,10 +1960,10 @@
     "updated": true
   },
   {
-    "name": "Homixide Gang",
-    "debut": 2021,
+    "name": "Kid Cudi",
+    "debut": 2009,
     "popularity": 51,
-    "members": "Group",
+    "members": "Solo",
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
@@ -1980,10 +1980,10 @@
     "updated": true
   },
   {
-    "name": "Kid Cudi",
-    "debut": 2009,
+    "name": "Homixide Gang",
+    "debut": 2021,
     "popularity": 53,
-    "members": "Solo",
+    "members": "Group",
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
@@ -2370,23 +2370,23 @@
     "updated": true
   },
   {
-    "name": "Ice Spice",
-    "debut": 2021,
-    "popularity": 95,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Dave",
     "debut": 2016,
-    "popularity": 96,
+    "popularity": 95,
     "members": "Solo",
     "genre": "HipHop",
     "country": "GB",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Ice Spice",
+    "debut": 2021,
+    "popularity": 96,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -2530,16 +2530,6 @@
     "updated": true
   },
   {
-    "name": "Odetari",
-    "debut": 2023,
-    "popularity": 111,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "BONES",
     "debut": 2013,
     "popularity": 111,
@@ -2642,7 +2632,7 @@
   {
     "name": "Offset",
     "debut": 2015,
-    "popularity": 122,
+    "popularity": 121,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2652,7 +2642,7 @@
   {
     "name": "Sexyy Red",
     "debut": 2019,
-    "popularity": 123,
+    "popularity": 122,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2662,7 +2652,7 @@
   {
     "name": "Isaiah Rashad",
     "debut": 2014,
-    "popularity": 124,
+    "popularity": 123,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2672,7 +2662,7 @@
   {
     "name": "Rio Da Yung Og",
     "debut": 2018,
-    "popularity": 126,
+    "popularity": 125,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2682,7 +2672,7 @@
   {
     "name": "Cardi B",
     "debut": 2015,
-    "popularity": 127,
+    "popularity": 126,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2692,7 +2682,7 @@
   {
     "name": "Chris Travis",
     "debut": 2012,
-    "popularity": 128,
+    "popularity": 127,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2702,7 +2692,7 @@
   {
     "name": "Danny Brown",
     "debut": 2008,
-    "popularity": 129,
+    "popularity": 128,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2712,7 +2702,7 @@
   {
     "name": "mgk",
     "debut": 2010,
-    "popularity": 130,
+    "popularity": 129,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2722,7 +2712,7 @@
   {
     "name": "Sematary",
     "debut": 2019,
-    "popularity": 131,
+    "popularity": 130,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2732,7 +2722,7 @@
   {
     "name": "Quavo",
     "debut": 2017,
-    "popularity": 132,
+    "popularity": 131,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2742,7 +2732,7 @@
   {
     "name": "Young Dolph",
     "debut": 2010,
-    "popularity": 133,
+    "popularity": 132,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2752,7 +2742,7 @@
   {
     "name": "$NOT",
     "debut": 2018,
-    "popularity": 134,
+    "popularity": 133,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2762,7 +2752,7 @@
   {
     "name": "Key Glock",
     "debut": 2017,
-    "popularity": 135,
+    "popularity": 134,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2772,7 +2762,7 @@
   {
     "name": "Kankan",
     "debut": 2019,
-    "popularity": 136,
+    "popularity": 135,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2782,7 +2772,7 @@
   {
     "name": "Smino",
     "debut": 2014,
-    "popularity": 137,
+    "popularity": 136,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2792,7 +2782,7 @@
   {
     "name": "JACKBOYS",
     "debut": 2019,
-    "popularity": 138,
+    "popularity": 137,
     "members": "Group",
     "genre": "HipHop",
     "country": "US",
@@ -2802,7 +2792,7 @@
   {
     "name": "Jack Harlow",
     "debut": 2015,
-    "popularity": 139,
+    "popularity": 138,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2812,7 +2802,7 @@
   {
     "name": "Logic",
     "debut": 2014,
-    "popularity": 140,
+    "popularity": 139,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2822,10 +2812,20 @@
   {
     "name": "That Mexican OT",
     "debut": 2020,
-    "popularity": 141,
+    "popularity": 140,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Devon Hendryx",
+    "debut": 2009,
+    "popularity": 142,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "JP",
     "gender": "Male",
     "updated": true
   },
@@ -2840,19 +2840,9 @@
     "updated": true
   },
   {
-    "name": "Devon Hendryx",
-    "debut": 2009,
-    "popularity": 144,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "JP",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "wifiskeleton",
     "debut": 2022,
-    "popularity": 145,
+    "popularity": 144,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2862,7 +2852,7 @@
   {
     "name": "Pouya",
     "debut": 2012,
-    "popularity": 146,
+    "popularity": 145,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2872,7 +2862,7 @@
   {
     "name": "SoFaygo",
     "debut": 2019,
-    "popularity": 147,
+    "popularity": 146,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2882,7 +2872,7 @@
   {
     "name": "Ty Dolla $ign",
     "debut": 2011,
-    "popularity": 148,
+    "popularity": 147,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2890,9 +2880,19 @@
     "updated": true
   },
   {
+    "name": "Nujabes",
+    "debut": 2003,
+    "popularity": 149,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "JP",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Skepta",
     "debut": 2007,
-    "popularity": 149,
+    "popularity": 150,
     "members": "Solo",
     "genre": "HipHop",
     "country": "GB",
@@ -2910,19 +2910,9 @@
     "updated": true
   },
   {
-    "name": "Nujabes",
-    "debut": 2003,
-    "popularity": 152,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "JP",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Lil Loaded",
     "debut": 2019,
-    "popularity": 153,
+    "popularity": 152,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2932,7 +2922,7 @@
   {
     "name": "BROCKHAMPTON",
     "debut": 2015,
-    "popularity": 154,
+    "popularity": 153,
     "members": "Group",
     "genre": "HipHop",
     "country": "US",
@@ -2941,6 +2931,16 @@
   },
   {
     "name": "Lil Skies",
+    "debut": 2017,
+    "popularity": 154,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Pi'erre Bourne",
     "debut": 2017,
     "popularity": 155,
     "members": "Solo",
@@ -2960,19 +2960,9 @@
     "updated": true
   },
   {
-    "name": "Pi'erre Bourne",
-    "debut": 2017,
-    "popularity": 157,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Lil Nas X",
     "debut": 2019,
-    "popularity": 158,
+    "popularity": 157,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -2982,7 +2972,7 @@
   {
     "name": "Beastie Boys",
     "debut": 1986,
-    "popularity": 159,
+    "popularity": 158,
     "members": "Group",
     "genre": "HipHop",
     "country": "US",
@@ -2992,7 +2982,7 @@
   {
     "name": "prettifun",
     "debut": 2022,
-    "popularity": 160,
+    "popularity": 159,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3002,11 +2992,21 @@
   {
     "name": "Young Nudy",
     "debut": 2016,
-    "popularity": 161,
+    "popularity": 160,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Ashnikko",
+    "debut": 2017,
+    "popularity": 161,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -3020,19 +3020,9 @@
     "updated": true
   },
   {
-    "name": "Ashnikko",
-    "debut": 2017,
-    "popularity": 163,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "DC THE DON",
     "debut": 2018,
-    "popularity": 164,
+    "popularity": 163,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3042,6 +3032,16 @@
   {
     "name": "G Herbo",
     "debut": 2014,
+    "popularity": 164,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "smokedope2016",
+    "debut": 2022,
     "popularity": 165,
     "members": "Solo",
     "genre": "HipHop",
@@ -3060,6 +3060,16 @@
     "updated": true
   },
   {
+    "name": "fakemink",
+    "debut": 2005,
+    "popularity": 167,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Baby Smoove",
     "debut": 2017,
     "popularity": 168,
@@ -3070,13 +3080,13 @@
     "updated": true
   },
   {
-    "name": "fakemink",
-    "debut": 2005,
+    "name": "Pink Guy",
+    "debut": 2017,
     "popularity": 169,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "GB",
-    "gender": "Female",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -3090,8 +3100,8 @@
     "updated": true
   },
   {
-    "name": "Pink Guy",
-    "debut": 2017,
+    "name": "Boldy James",
+    "debut": 2012,
     "popularity": 171,
     "members": "Solo",
     "genre": "HipHop",
@@ -3100,12 +3110,12 @@
     "updated": true
   },
   {
-    "name": "Boldy James",
-    "debut": 2012,
+    "name": "Joost",
+    "debut": 2016,
     "popularity": 172,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "US",
+    "country": "NL",
     "gender": "Male",
     "updated": true
   },
@@ -3120,19 +3130,9 @@
     "updated": true
   },
   {
-    "name": "Joost",
-    "debut": 2016,
-    "popularity": 174,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "NL",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Sickboyrari",
     "debut": 2010,
-    "popularity": 175,
+    "popularity": 174,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3142,10 +3142,20 @@
   {
     "name": "André 3000",
     "debut": 2010,
-    "popularity": 176,
+    "popularity": 175,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "ThaiBoy Digital",
+    "debut": 2014,
+    "popularity": 176,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "TH",
     "gender": "Male",
     "updated": true
   },
@@ -3160,12 +3170,12 @@
     "updated": true
   },
   {
-    "name": "ThaiBoy Digital",
-    "debut": 2014,
+    "name": "Benny The Butcher",
+    "debut": 2015,
     "popularity": 178,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "TH",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -3180,19 +3190,9 @@
     "updated": true
   },
   {
-    "name": "Benny The Butcher",
-    "debut": 2015,
-    "popularity": 180,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Gucci Mane",
     "debut": 2005,
-    "popularity": 181,
+    "popularity": 180,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3212,7 +3212,7 @@
   {
     "name": "Lil Tony Official",
     "debut": 2020,
-    "popularity": 184,
+    "popularity": 183,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3222,7 +3222,7 @@
   {
     "name": "Diddy",
     "debut": 1997,
-    "popularity": 185,
+    "popularity": 184,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3232,6 +3232,16 @@
   {
     "name": "EBK Jaaybo",
     "debut": 2018,
+    "popularity": 185,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Fetty Wap",
+    "debut": 2015,
     "popularity": 186,
     "members": "Solo",
     "genre": "HipHop",
@@ -3250,19 +3260,9 @@
     "updated": true
   },
   {
-    "name": "Fetty Wap",
-    "debut": 2015,
-    "popularity": 188,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Roddy Ricch",
     "debut": 2018,
-    "popularity": 189,
+    "popularity": 188,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3272,8 +3272,18 @@
   {
     "name": "DMX",
     "debut": 1993,
-    "popularity": 190,
+    "popularity": 189,
     "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Shoreline Mafia",
+    "debut": 2017,
+    "popularity": 191,
+    "members": "Group",
     "genre": "HipHop",
     "country": "US",
     "gender": "Male",
@@ -3290,19 +3300,9 @@
     "updated": true
   },
   {
-    "name": "Shoreline Mafia",
-    "debut": 2017,
-    "popularity": 193,
-    "members": "Group",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "MIKE",
     "debut": 2017,
-    "popularity": 194,
+    "popularity": 193,
     "members": "Solo",
     "genre": "HipHop",
     "country": "GB",
@@ -3312,7 +3312,7 @@
   {
     "name": "Scrim",
     "debut": 2020,
-    "popularity": 195,
+    "popularity": 194,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3322,7 +3322,7 @@
   {
     "name": "City Morgue",
     "debut": 2018,
-    "popularity": 196,
+    "popularity": 195,
     "members": "Group",
     "genre": "HipHop",
     "country": "US",
@@ -3332,7 +3332,7 @@
   {
     "name": "Freddie Dredd",
     "debut": 2016,
-    "popularity": 197,
+    "popularity": 196,
     "members": "Solo",
     "genre": "HipHop",
     "country": "CA",
@@ -3340,9 +3340,9 @@
     "updated": true
   },
   {
-    "name": "Teezo Touchdown",
-    "debut": 2019,
-    "popularity": 199,
+    "name": "Black Kray",
+    "debut": 2001,
+    "popularity": 197,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3350,9 +3350,9 @@
     "updated": true
   },
   {
-    "name": "Black Kray",
-    "debut": 2001,
-    "popularity": 199,
+    "name": "Teezo Touchdown",
+    "debut": 2019,
+    "popularity": 198,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3362,10 +3362,20 @@
   {
     "name": "ericdoa",
     "debut": 2019,
-    "popularity": 200,
+    "popularity": 199,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "ericdoa",
+    "debut": 2015,
+    "popularity": 200,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "CA",
     "gender": "Male",
     "updated": true
   },
