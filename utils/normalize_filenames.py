@@ -1,7 +1,7 @@
 import os
 
 # Path to the directory containing the .jpg files
-icons_dir = "/data/icons"
+icons_dir = "data/icons"
 
 # Iterate through all files in the directory
 for filename in os.listdir(icons_dir):
