@@ -390,23 +390,23 @@
     "updated": true
   },
   {
-    "name": "Elton John",
-    "debut": 1969,
-    "popularity": 40,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Ayesha Erotica",
     "debut": 2005,
-    "popularity": 41,
+    "popularity": 40,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Elton John",
+    "debut": 1969,
+    "popularity": 41,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -700,20 +700,20 @@
     "updated": true
   },
   {
-    "name": "Teddy Swims",
-    "debut": 2019,
-    "popularity": 87,
-    "members": "Solo",
+    "name": "*NSYNC",
+    "debut": 1997,
+    "popularity": 88,
+    "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "*NSYNC",
-    "debut": 1997,
+    "name": "Teddy Swims",
+    "debut": 2019,
     "popularity": 89,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
@@ -780,23 +780,23 @@
     "updated": true
   },
   {
-    "name": "Big Time Rush",
-    "debut": 2010,
+    "name": "Glee Cast",
+    "debut": 2009,
     "popularity": 101,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Mixed",
     "updated": true
   },
   {
-    "name": "Glee Cast",
-    "debut": 2009,
+    "name": "Big Time Rush",
+    "debut": 2010,
     "popularity": 102,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
-    "gender": "Mixed",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -882,7 +882,7 @@
   {
     "name": "Slayyyter",
     "debut": 2018,
-    "popularity": 116,
+    "popularity": 113,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -952,7 +952,7 @@
   {
     "name": "Ellie Goulding",
     "debut": 2010,
-    "popularity": 127,
+    "popularity": 128,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -962,7 +962,7 @@
   {
     "name": "Ava Max",
     "debut": 2018,
-    "popularity": 128,
+    "popularity": 129,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -972,7 +972,7 @@
   {
     "name": "Bee Gees",
     "debut": 1967,
-    "popularity": 130,
+    "popularity": 131,
     "members": "Group",
     "genre": "Pop",
     "country": "AU",
@@ -982,7 +982,7 @@
   {
     "name": "ADÉLA",
     "debut": 2024,
-    "popularity": 131,
+    "popularity": 132,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1010,23 +1010,23 @@
     "updated": true
   },
   {
-    "name": "Jon Bellion",
+    "name": "Maggie Lindemann",
     "debut": 2013,
     "popularity": 135,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
-    "name": "Maggie Lindemann",
+    "name": "Jon Bellion",
     "debut": 2013,
     "popularity": 136,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1082,7 +1082,7 @@
   {
     "name": "Selena Gomez & The Scene",
     "debut": 2009,
-    "popularity": 145,
+    "popularity": 144,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1112,7 +1112,7 @@
   {
     "name": "Stromae",
     "debut": 2009,
-    "popularity": 150,
+    "popularity": 151,
     "members": "Solo",
     "genre": "Pop",
     "country": "BE",
@@ -1142,7 +1142,7 @@
   {
     "name": "half•alive",
     "debut": 2017,
-    "popularity": 157,
+    "popularity": 158,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1152,7 +1152,7 @@
   {
     "name": "Quinn XCII",
     "debut": 2015,
-    "popularity": 158,
+    "popularity": 159,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1180,20 +1180,20 @@
     "updated": true
   },
   {
-    "name": "Towa Bird",
+    "name": "JADE",
     "debut": 2024,
     "popularity": 162,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Pop",
     "country": "GB",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "JADE",
+    "name": "Towa Bird",
     "debut": 2024,
     "popularity": 163,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Pop",
     "country": "GB",
     "gender": "Female",
@@ -1202,7 +1202,7 @@
   {
     "name": "Markiplier",
     "debut": 2016,
-    "popularity": 166,
+    "popularity": 165,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1212,7 +1212,7 @@
   {
     "name": "Christina Aguilera",
     "debut": 1999,
-    "popularity": 167,
+    "popularity": 168,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1222,7 +1222,7 @@
   {
     "name": "Dean Lewis",
     "debut": 2017,
-    "popularity": 170,
+    "popularity": 171,
     "members": "Solo",
     "genre": "Pop",
     "country": "AU",
@@ -1280,16 +1280,6 @@
     "updated": true
   },
   {
-    "name": "Why Don't We",
-    "debut": 2016,
-    "popularity": 178,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Bebe Rexha",
     "debut": 2014,
     "popularity": 179,
@@ -1297,6 +1287,16 @@
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Why Don't We",
+    "debut": 2016,
+    "popularity": 180,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1332,7 +1332,7 @@
   {
     "name": "Joshua Bassett",
     "debut": 2019,
-    "popularity": 186,
+    "popularity": 187,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1380,23 +1380,23 @@
     "updated": true
   },
   {
-    "name": "RuPaul",
-    "debut": 1992,
+    "name": "Mckenna Grace",
+    "debut": 2021,
     "popularity": 192,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
-    "name": "Mckenna Grace",
-    "debut": 2021,
+    "name": "RuPaul",
+    "debut": 1992,
     "popularity": 193,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1440,23 +1440,23 @@
     "updated": true
   },
   {
-    "name": "Tom Odell",
-    "debut": 2012,
-    "popularity": 199,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "High School Musical Cast",
     "debut": 2007,
-    "popularity": 200,
+    "popularity": 199,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Tom Odell",
+    "debut": 2012,
+    "popularity": 200,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -4240,16 +4240,6 @@
     "updated": true
   },
   {
-    "name": "EDEN",
-    "debut": 2015,
-    "popularity": 94,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "IE",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Lyn Lapid",
     "debut": 2020,
     "popularity": 92,
@@ -4267,6 +4257,16 @@
     "genre": "Indie",
     "country": "GB",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "EDEN",
+    "debut": 2015,
+    "popularity": 94,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "IE",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -4290,6 +4290,16 @@
     "updated": true
   },
   {
+    "name": "Esha Tewari",
+    "debut": 2024,
+    "popularity": 97,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "AU",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Dayglow",
     "debut": 2019,
     "popularity": 98,
@@ -4307,16 +4317,6 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Esha Tewari",
-    "debut": 2024,
-    "popularity": 97,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "AU",
-    "gender": "Female",
     "updated": true
   },
   {
@@ -4340,16 +4340,6 @@
     "updated": true
   },
   {
-    "name": "Ashe",
-    "debut": 2017,
-    "popularity": 103,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "alexgoffline",
     "debut": 2024,
     "popularity": 102,
@@ -4357,6 +4347,16 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Ashe",
+    "debut": 2017,
+    "popularity": 103,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -4550,6 +4550,16 @@
     "updated": true
   },
   {
+    "name": "Paris Paloma",
+    "debut": 2020,
+    "popularity": 125,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Alvvays",
     "debut": 2014,
     "popularity": 126,
@@ -4566,16 +4576,6 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Paris Paloma",
-    "debut": 2020,
-    "popularity": 125,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "GB",
     "gender": "Female",
     "updated": true
   },
@@ -4690,16 +4690,6 @@
     "updated": true
   },
   {
-    "name": "BETWEEN FRIENDS",
-    "debut": 2017,
-    "popularity": 140,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "EKKSTACY",
     "debut": 2020,
     "popularity": 139,
@@ -4707,6 +4697,16 @@
     "genre": "Indie",
     "country": "CA",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "BETWEEN FRIENDS",
+    "debut": 2017,
+    "popularity": 140,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -4730,16 +4730,6 @@
     "updated": true
   },
   {
-    "name": "Alice Phoebe Lou",
-    "debut": 2016,
-    "popularity": 144,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ZA",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "The Hellp",
     "debut": 2021,
     "popularity": 143,
@@ -4747,6 +4737,16 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Alice Phoebe Lou",
+    "debut": 2016,
+    "popularity": 144,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "ZA",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -4870,16 +4870,6 @@
     "updated": true
   },
   {
-    "name": "Laura Shigihara",
-    "debut": 2010,
-    "popularity": 158,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Finn Wolfhard",
     "debut": 2025,
     "popularity": 157,
@@ -4890,9 +4880,9 @@
     "updated": true
   },
   {
-    "name": "chloe moriondo",
-    "debut": 2018,
-    "popularity": 160,
+    "name": "Laura Shigihara",
+    "debut": 2010,
+    "popularity": 158,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4906,6 +4896,16 @@
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "chloe moriondo",
+    "debut": 2018,
+    "popularity": 160,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -4950,22 +4950,22 @@
     "updated": true
   },
   {
-    "name": "Nicole Dollaganger",
-    "debut": 2012,
-    "popularity": 169,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "CA",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "i don't like mirrors",
     "debut": 2023,
     "popularity": 168,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Nicole Dollaganger",
+    "debut": 2012,
+    "popularity": 169,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "CA",
     "gender": "Female",
     "updated": true
   },
@@ -5180,16 +5180,6 @@
     "updated": true
   },
   {
-    "name": "Surfaces",
-    "debut": 2017,
-    "popularity": 196,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "Dead Calm",
     "debut": 2023,
     "popularity": 195,
@@ -5197,6 +5187,16 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Surfaces",
+    "debut": 2017,
+    "popularity": 196,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -5210,16 +5210,6 @@
     "updated": true
   },
   {
-    "name": "hard life",
-    "debut": 2017,
-    "popularity": 199,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "King Princess",
     "debut": 2018,
     "popularity": 198,
@@ -5227,6 +5217,16 @@
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "hard life",
+    "debut": 2017,
+    "popularity": 199,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -5921,7 +5921,7 @@
   },
   {
     "name": "Avril Lavigne",
-    "debut": 2011,
+    "debut": 2002,
     "popularity": 72,
     "members": "Solo",
     "genre": "Rock",
@@ -7546,7 +7546,7 @@
     "members": "Group",
     "genre": "R&B",
     "country": "US",
-    "gender": "Male",
+    "gender": "Mixed",
     "updated": true
   },
   {
