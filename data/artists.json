@@ -1120,6 +1120,16 @@
     "updated": true
   },
   {
+    "name": "The Home Depot",
+    "debut": 2019,
+    "popularity": 152,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
     "name": "Owl City",
     "debut": 2007,
     "popularity": 155,
@@ -3542,7 +3552,7 @@
   {
     "name": "alex_g_offline",
     "debut": 2023,
-    "popularity": 17,
+    "popularity": 18,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -3552,7 +3562,7 @@
   {
     "name": "Lorde",
     "debut": 2013,
-    "popularity": 18,
+    "popularity": 17,
     "members": "Solo",
     "genre": "Indie",
     "country": "NZ",
@@ -4132,7 +4142,7 @@
   {
     "name": "NIKI",
     "debut": 2017,
-    "popularity": 79,
+    "popularity": 80,
     "members": "Solo",
     "genre": "Indie",
     "country": "ID",
@@ -4142,7 +4152,7 @@
   {
     "name": "Penelope Scott",
     "debut": 2020,
-    "popularity": 80,
+    "popularity": 79,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4252,7 +4262,7 @@
   {
     "name": "Lyn Lapid",
     "debut": 2020,
-    "popularity": 92,
+    "popularity": 94,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4272,7 +4282,7 @@
   {
     "name": "EDEN",
     "debut": 2015,
-    "popularity": 94,
+    "popularity": 92,
     "members": "Solo",
     "genre": "Indie",
     "country": "IE",
@@ -4352,7 +4362,7 @@
   {
     "name": "alexgoffline",
     "debut": 2024,
-    "popularity": 102,
+    "popularity": 103,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4362,7 +4372,7 @@
   {
     "name": "Ashe",
     "debut": 2017,
-    "popularity": 103,
+    "popularity": 102,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4612,7 +4622,7 @@
   {
     "name": "Royel Otis",
     "debut": 2021,
-    "popularity": 130,
+    "popularity": 131,
     "members": "Group",
     "genre": "Indie",
     "country": "AU",
@@ -4622,7 +4632,7 @@
   {
     "name": "SOFIA ISELLA",
     "debut": 2022,
-    "popularity": 131,
+    "popularity": 130,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4692,7 +4702,7 @@
   {
     "name": "Sub Urban",
     "debut": 2019,
-    "popularity": 138,
+    "popularity": 139,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4702,7 +4712,7 @@
   {
     "name": "EKKSTACY",
     "debut": 2020,
-    "popularity": 139,
+    "popularity": 140,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
@@ -4712,7 +4722,7 @@
   {
     "name": "BETWEEN FRIENDS",
     "debut": 2017,
-    "popularity": 140,
+    "popularity": 138,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -4732,7 +4742,7 @@
   {
     "name": "Los Retros",
     "debut": 2019,
-    "popularity": 142,
+    "popularity": 143,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -4742,7 +4752,7 @@
   {
     "name": "The Hellp",
     "debut": 2021,
-    "popularity": 143,
+    "popularity": 142,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -4772,7 +4782,7 @@
   {
     "name": "LATIN MAFIA",
     "debut": 2021,
-    "popularity": 146,
+    "popularity": 148,
     "members": "Group",
     "genre": "Indie",
     "country": "MX",
@@ -4792,7 +4802,7 @@
   {
     "name": "Oklou",
     "debut": 2014,
-    "popularity": 148,
+    "popularity": 146,
     "members": "Solo",
     "genre": "Indie",
     "country": "FR",
@@ -4902,7 +4912,7 @@
   {
     "name": "Nieve Ella",
     "debut": 2023,
-    "popularity": 159,
+    "popularity": 160,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -4912,7 +4922,7 @@
   {
     "name": "chloe moriondo",
     "debut": 2018,
-    "popularity": 160,
+    "popularity": 159,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4972,7 +4982,7 @@
   {
     "name": "i don't like mirrors",
     "debut": 2023,
-    "popularity": 168,
+    "popularity": 169,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -4982,7 +4992,7 @@
   {
     "name": "Nicole Dollaganger",
     "debut": 2012,
-    "popularity": 169,
+    "popularity": 168,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
@@ -4992,7 +5002,7 @@
   {
     "name": "Jhariah",
     "debut": 2018,
-    "popularity": 171,
+    "popularity": 173,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5002,7 +5012,7 @@
   {
     "name": "Sophie Thatcher",
     "debut": 2024,
-    "popularity": 173,
+    "popularity": 172,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5040,19 +5050,9 @@
     "updated": true
   },
   {
-    "name": "Your Arms Are My Cocoon",
-    "debut": 2020,
-    "popularity": 178,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Dream, Ivory",
     "debut": 2017,
-    "popularity": 179,
+    "popularity": 178,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5062,7 +5062,7 @@
   {
     "name": "Enya",
     "debut": 1987,
-    "popularity": 180,
+    "popularity": 179,
     "members": "Solo",
     "genre": "Indie",
     "country": "IE",
@@ -5072,7 +5072,7 @@
   {
     "name": "Lexa Gates",
     "debut": 2020,
-    "popularity": 181,
+    "popularity": 180,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5082,7 +5082,7 @@
   {
     "name": "Paolo Nutini",
     "debut": 2007,
-    "popularity": 182,
+    "popularity": 181,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -5092,7 +5092,7 @@
   {
     "name": "Sleeping At Last",
     "debut": 2003,
-    "popularity": 183,
+    "popularity": 182,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5102,7 +5102,7 @@
   {
     "name": "Jordana",
     "debut": 2018,
-    "popularity": 185,
+    "popularity": 184,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5112,7 +5112,7 @@
   {
     "name": "Rojuu",
     "debut": 2017,
-    "popularity": 186,
+    "popularity": 185,
     "members": "Solo",
     "genre": "Indie",
     "country": "ES",
@@ -5132,7 +5132,7 @@
   {
     "name": "Ginger Root",
     "debut": 2017,
-    "popularity": 188,
+    "popularity": 186,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5142,7 +5142,7 @@
   {
     "name": "Luvcat",
     "debut": 2025,
-    "popularity": 189,
+    "popularity": 188,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5162,7 +5162,7 @@
   {
     "name": "Passion Pit",
     "debut": 2008,
-    "popularity": 191,
+    "popularity": 189,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5172,7 +5172,7 @@
   {
     "name": "Michael Cera",
     "debut": 2014,
-    "popularity": 192,
+    "popularity": 191,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
@@ -5182,7 +5182,7 @@
   {
     "name": "The Postal Service",
     "debut": 2001,
-    "popularity": 193,
+    "popularity": 192,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5202,7 +5202,7 @@
   {
     "name": "Dead Calm",
     "debut": 2023,
-    "popularity": 195,
+    "popularity": 193,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5212,7 +5212,7 @@
   {
     "name": "Surfaces",
     "debut": 2017,
-    "popularity": 196,
+    "popularity": 195,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5222,7 +5222,7 @@
   {
     "name": "Fitz and The Tantrums",
     "debut": 2009,
-    "popularity": 197,
+    "popularity": 196,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5232,7 +5232,7 @@
   {
     "name": "King Princess",
     "debut": 2018,
-    "popularity": 198,
+    "popularity": 197,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5242,7 +5242,7 @@
   {
     "name": "hard life",
     "debut": 2017,
-    "popularity": 199,
+    "popularity": 198,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
@@ -5252,7 +5252,7 @@
   {
     "name": "Phantogram",
     "debut": 2010,
-    "popularity": 200,
+    "popularity": 199,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5981,7 +5981,7 @@
   },
   {
     "name": "my bloody valentine",
-    "debut": 1998,
+    "debut": 1988,
     "popularity": 76,
     "members": "Group",
     "genre": "Rock",
