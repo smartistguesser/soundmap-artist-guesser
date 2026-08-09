@@ -290,22 +290,22 @@
     "updated": true
   },
   {
-    "name": "ZAYN",
-    "debut": 2016,
+    "name": "5 Seconds of Summer",
+    "debut": 2012,
     "popularity": 30,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Pop",
-    "country": "GB",
+    "country": "AU",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "5 Seconds of Summer",
-    "debut": 2012,
+    "name": "ZAYN",
+    "debut": 2016,
     "popularity": 31,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Pop",
-    "country": "AU",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
@@ -462,7 +462,7 @@
   {
     "name": "Miley Cyrus",
     "debut": 2007,
-    "popularity": 52,
+    "popularity": 51,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -532,7 +532,7 @@
   {
     "name": "Selena Gomez",
     "debut": 2011,
-    "popularity": 61,
+    "popularity": 60,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -642,7 +642,7 @@
   {
     "name": "Zara Larsson",
     "debut": 2012,
-    "popularity": 78,
+    "popularity": 77,
     "members": "Solo",
     "genre": "Pop",
     "country": "SE",
@@ -652,7 +652,7 @@
   {
     "name": "Mariah Carey",
     "debut": 1990,
-    "popularity": 80,
+    "popularity": 79,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -702,18 +702,8 @@
   {
     "name": "*NSYNC",
     "debut": 1997,
-    "popularity": 88,
+    "popularity": 86,
     "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Teddy Swims",
-    "debut": 2019,
-    "popularity": 89,
-    "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
@@ -722,17 +712,37 @@
   {
     "name": "Madonna",
     "debut": 1983,
+    "popularity": 88,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Teddy Swims",
+    "debut": 2019,
     "popularity": 90,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Shakira",
+    "debut": 1995,
+    "popularity": 91,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "CO",
     "gender": "Female",
     "updated": true
   },
   {
     "name": "Caroline Polachek",
     "debut": 2019,
-    "popularity": 91,
+    "popularity": 92,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -740,12 +750,12 @@
     "updated": true
   },
   {
-    "name": "Shakira",
-    "debut": 1995,
-    "popularity": 92,
+    "name": "Alessi Rose",
+    "debut": 2023,
+    "popularity": 94,
     "members": "Solo",
     "genre": "Pop",
-    "country": "CO",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -756,6 +766,16 @@
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Lewis Capaldi",
+    "debut": 2017,
+    "popularity": 98,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
@@ -872,7 +892,7 @@
   {
     "name": "Sia",
     "debut": 2000,
-    "popularity": 112,
+    "popularity": 113,
     "members": "Solo",
     "genre": "Pop",
     "country": "AU",
@@ -882,7 +902,7 @@
   {
     "name": "Slayyyter",
     "debut": 2018,
-    "popularity": 113,
+    "popularity": 112,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -952,7 +972,7 @@
   {
     "name": "Ellie Goulding",
     "debut": 2010,
-    "popularity": 128,
+    "popularity": 129,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -962,7 +982,7 @@
   {
     "name": "Ava Max",
     "debut": 2018,
-    "popularity": 129,
+    "popularity": 131,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -972,7 +992,7 @@
   {
     "name": "Bee Gees",
     "debut": 1967,
-    "popularity": 131,
+    "popularity": 132,
     "members": "Group",
     "genre": "Pop",
     "country": "AU",
@@ -982,7 +1002,7 @@
   {
     "name": "ADÉLA",
     "debut": 2024,
-    "popularity": 132,
+    "popularity": 125,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1012,7 +1032,7 @@
   {
     "name": "Jon Bellion",
     "debut": 2013,
-    "popularity": 135,
+    "popularity": 136,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1022,7 +1042,7 @@
   {
     "name": "Maggie Lindemann",
     "debut": 2013,
-    "popularity": 136,
+    "popularity": 135,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1072,7 +1092,7 @@
   {
     "name": "Nirvana",
     "debut": 2003,
-    "popularity": 143,
+    "popularity": 144,
     "members": "Group",
     "genre": "Pop",
     "country": "GB",
@@ -1082,7 +1102,7 @@
   {
     "name": "Selena Gomez & The Scene",
     "debut": 2009,
-    "popularity": 144,
+    "popularity": 145,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1112,7 +1132,7 @@
   {
     "name": "Stromae",
     "debut": 2009,
-    "popularity": 151,
+    "popularity": 152,
     "members": "Solo",
     "genre": "Pop",
     "country": "BE",
@@ -1122,7 +1142,7 @@
   {
     "name": "The Home Depot",
     "debut": 2019,
-    "popularity": 152,
+    "popularity": 151,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1172,7 +1192,7 @@
   {
     "name": "Hailee Steinfeld",
     "debut": 2015,
-    "popularity": 159,
+    "popularity": 160,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1202,7 +1222,7 @@
   {
     "name": "Towa Bird",
     "debut": 2024,
-    "popularity": 164,
+    "popularity": 166,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -1222,7 +1242,7 @@
   {
     "name": "Christina Aguilera",
     "debut": 1999,
-    "popularity": 168,
+    "popularity": 167,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1292,7 +1312,7 @@
   {
     "name": "Bebe Rexha",
     "debut": 2014,
-    "popularity": 179,
+    "popularity": 180,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1342,7 +1362,7 @@
   {
     "name": "Joshua Bassett",
     "debut": 2019,
-    "popularity": 187,
+    "popularity": 188,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1352,7 +1372,7 @@
   {
     "name": "SAWTOWNE",
     "debut": 2023,
-    "popularity": 188,
+    "popularity": 187,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1432,7 +1452,7 @@
   {
     "name": "Lizzo",
     "debut": 2014,
-    "popularity": 197,
+    "popularity": 198,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1442,7 +1462,7 @@
   {
     "name": "Lily Allen",
     "debut": 2006,
-    "popularity": 198,
+    "popularity": 197,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -2940,6 +2960,16 @@
     "updated": true
   },
   {
+    "name": "prettifun",
+    "debut": 2022,
+    "popularity": 154,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Pi'erre Bourne",
     "debut": 2017,
     "popularity": 155,
@@ -2990,26 +3020,6 @@
     "updated": true
   },
   {
-    "name": "prettifun",
-    "debut": 2022,
-    "popularity": 154,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Young Nudy",
-    "debut": 2016,
-    "popularity": 162,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Ashnikko",
     "debut": 2017,
     "popularity": 160,
@@ -3030,6 +3040,26 @@
     "updated": true
   },
   {
+    "name": "Young Nudy",
+    "debut": 2016,
+    "popularity": 162,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "smokedope2016",
+    "debut": 2022,
+    "popularity": 163,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "DC THE DON",
     "debut": 2018,
     "popularity": 164,
@@ -3043,16 +3073,6 @@
     "name": "G Herbo",
     "debut": 2014,
     "popularity": 165,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "smokedope2016",
-    "debut": 2022,
-    "popularity": 163,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3150,6 +3170,16 @@
     "updated": true
   },
   {
+    "name": "PlaqueBoyMax",
+    "debut": 2025,
+    "popularity": 175,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "André 3000",
     "debut": 2010,
     "popularity": 176,
@@ -3166,16 +3196,6 @@
     "members": "Solo",
     "genre": "HipHop",
     "country": "TH",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "PlaqueBoyMax",
-    "debut": 2025,
-    "popularity": 175,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -3250,9 +3270,9 @@
     "updated": true
   },
   {
-    "name": "Fetty Wap",
-    "debut": 2015,
-    "popularity": 187,
+    "name": "Eem Triplin",
+    "debut": 2018,
+    "popularity": 186,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3260,9 +3280,9 @@
     "updated": true
   },
   {
-    "name": "Eem Triplin",
-    "debut": 2018,
-    "popularity": 186,
+    "name": "Fetty Wap",
+    "debut": 2015,
+    "popularity": 187,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3340,22 +3360,22 @@
     "updated": true
   },
   {
-    "name": "Freddie Dredd",
-    "debut": 2016,
-    "popularity": 197,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "CA",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Black Kray",
     "debut": 2001,
     "popularity": 196,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Freddie Dredd",
+    "debut": 2016,
+    "popularity": 197,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "CA",
     "gender": "Male",
     "updated": true
   },
