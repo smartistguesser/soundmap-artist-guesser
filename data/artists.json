@@ -5932,7 +5932,7 @@
   {
     "name": "Title Fight",
     "debut": 2007,
-    "popularity": 67,
+    "popularity": 66,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -6070,22 +6070,22 @@
     "updated": true
   },
   {
-    "name": "Mindless Self Indulgence",
-    "debut": 2000,
+    "name": "Fontaines D.C.",
+    "debut": 2017,
     "popularity": 81,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "IE",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Fontaines D.C.",
-    "debut": 2017,
+    "name": "Mindless Self Indulgence",
+    "debut": 2000,
     "popularity": 82,
     "members": "Group",
     "genre": "Rock",
-    "country": "IE",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -6250,20 +6250,20 @@
     "updated": true
   },
   {
-    "name": "Will Wood",
-    "debut": 2020,
+    "name": "Incubus",
+    "debut": 1997,
     "popularity": 100,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Incubus",
-    "debut": 1997,
+    "name": "Will Wood",
+    "debut": 2020,
     "popularity": 101,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
@@ -6300,8 +6300,8 @@
     "updated": true
   },
   {
-    "name": "Bon Jovi",
-    "debut": 1984,
+    "name": "3 Doors Down",
+    "debut": 2000,
     "popularity": 105,
     "members": "Group",
     "genre": "Rock",
@@ -6310,8 +6310,8 @@
     "updated": true
   },
   {
-    "name": "3 Doors Down",
-    "debut": 2000,
+    "name": "Bon Jovi",
+    "debut": 1984,
     "popularity": 106,
     "members": "Group",
     "genre": "Rock",
@@ -6330,22 +6330,22 @@
     "updated": true
   },
   {
-    "name": "Misfits",
-    "debut": 1984,
+    "name": "Seether",
+    "debut": 2002,
     "popularity": 108,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "ZA",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Seether",
-    "debut": 2002,
+    "name": "Misfits",
+    "debut": 1984,
     "popularity": 109,
     "members": "Group",
     "genre": "Rock",
-    "country": "ZA",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -6450,9 +6450,19 @@
     "updated": true
   },
   {
+    "name": "Lynyrd Skynyrd",
+    "debut": 1973,
+    "popularity": 121,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "sign crushes motorist",
     "debut": 2022,
-    "popularity": 121,
+    "popularity": 122,
     "members": "Group",
     "genre": "Rock",
     "country": "IE",
@@ -6460,29 +6470,9 @@
     "updated": true
   },
   {
-    "name": "Lynyrd Skynyrd",
-    "debut": 1973,
-    "popularity": 122,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Lemon Demon",
-    "debut": 2004,
-    "popularity": 123,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Skillet",
     "debut": 1996,
-    "popularity": 124,
+    "popularity": 123,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -6490,23 +6480,33 @@
     "updated": true
   },
   {
-    "name": "The Police",
-    "debut": 1978,
-    "popularity": 125,
-    "members": "Group",
+    "name": "Lemon Demon",
+    "debut": 2004,
+    "popularity": 124,
+    "members": "Solo",
     "genre": "Rock",
-    "country": "GB",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
     "name": "Stevie Nicks",
     "debut": 1981,
-    "popularity": 126,
+    "popularity": 125,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "The Police",
+    "debut": 1978,
+    "popularity": 126,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -6530,10 +6530,10 @@
     "updated": true
   },
   {
-    "name": "Jack Johnson",
-    "debut": 2003,
+    "name": "Staind",
+    "debut": 1999,
     "popularity": 129,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
@@ -6550,10 +6550,10 @@
     "updated": true
   },
   {
-    "name": "Staind",
-    "debut": 1999,
+    "name": "Jack Johnson",
+    "debut": 2003,
     "popularity": 131,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
@@ -6690,8 +6690,8 @@
     "updated": true
   },
   {
-    "name": "\"Weird Al\" Yankovic",
-    "debut": 1983,
+    "name": "McCafferty",
+    "debut": 2014,
     "popularity": 146,
     "members": "Solo",
     "genre": "Rock",
@@ -6700,8 +6700,8 @@
     "updated": true
   },
   {
-    "name": "McCafferty",
-    "debut": 2014,
+    "name": "\"Weird Al\" Yankovic",
+    "debut": 1983,
     "popularity": 147,
     "members": "Solo",
     "genre": "Rock",
@@ -6732,7 +6732,7 @@
   {
     "name": "Hollywood Undead",
     "debut": 2008,
-    "popularity": 151,
+    "popularity": 150,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -6740,19 +6740,9 @@
     "updated": true
   },
   {
-    "name": "Hotel Ugly",
-    "debut": 2020,
-    "popularity": 152,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "WILLOW",
     "debut": 2010,
-    "popularity": 153,
+    "popularity": 152,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
@@ -6762,10 +6752,20 @@
   {
     "name": "Good Kid",
     "debut": 2015,
-    "popularity": 154,
+    "popularity": 153,
     "members": "Group",
     "genre": "Rock",
     "country": "CA",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Hotel Ugly",
+    "debut": 2020,
+    "popularity": 154,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -6790,22 +6790,22 @@
     "updated": true
   },
   {
-    "name": "She Wants Revenge",
-    "debut": 2005,
+    "name": "Rush",
+    "debut": 1974,
     "popularity": 157,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "CA",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Rush",
-    "debut": 1974,
+    "name": "She Wants Revenge",
+    "debut": 2005,
     "popularity": 158,
     "members": "Group",
     "genre": "Rock",
-    "country": "CA",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -6880,16 +6880,6 @@
     "updated": true
   },
   {
-    "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-    "debut": 2017,
-    "popularity": 166,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "The Stone Roses",
     "debut": 1987,
     "popularity": 167,
@@ -6900,19 +6890,29 @@
     "updated": true
   },
   {
-    "name": "The Used",
-    "debut": 2002,
+    "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+    "debut": 2017,
     "popularity": 168,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "James Marriott",
+    "debut": 2020,
+    "popularity": 169,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
   {
     "name": "Have A Nice Life",
     "debut": 2007,
-    "popularity": 169,
+    "popularity": 170,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -6920,33 +6920,33 @@
     "updated": true
   },
   {
-    "name": "James Marriott",
-    "debut": 2020,
-    "popularity": 170,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "The Clash",
-    "debut": 1977,
+    "name": "The Used",
+    "debut": 2002,
     "popularity": 171,
     "members": "Group",
     "genre": "Rock",
-    "country": "GB",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
     "name": "VIOLENT VIRA",
     "debut": 2021,
-    "popularity": 173,
+    "popularity": 172,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "The Clash",
+    "debut": 1977,
+    "popularity": 173,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -7000,23 +7000,23 @@
     "updated": true
   },
   {
-    "name": "Beach Bunny",
-    "debut": 2015,
-    "popularity": 179,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Marilyn Manson",
     "debut": 1994,
-    "popularity": 180,
+    "popularity": 179,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Beach Bunny",
+    "debut": 2015,
+    "popularity": 180,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -7110,9 +7110,19 @@
     "updated": true
   },
   {
+    "name": "Superheaven",
+    "debut": 2013,
+    "popularity": 191,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "A Perfect Circle",
     "debut": 2000,
-    "popularity": 191,
+    "popularity": 192,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -7122,18 +7132,8 @@
   {
     "name": "DUCKBOY",
     "debut": 2023,
-    "popularity": 192,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Superheaven",
-    "debut": 2013,
     "popularity": 193,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Rock",
     "country": "US",
     "gender": "Male",
@@ -7190,22 +7190,22 @@
     "updated": true
   },
   {
-    "name": "The Last Dinner Party",
-    "debut": 2023,
+    "name": "Modest Mouse",
+    "debut": 1996,
     "popularity": 199,
     "members": "Group",
     "genre": "Rock",
-    "country": "GB",
+    "country": "US",
     "gender": "Mixed",
     "updated": true
   },
   {
-    "name": "Modest Mouse",
-    "debut": 1996,
+    "name": "The Last Dinner Party",
+    "debut": 2023,
     "popularity": 200,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "GB",
     "gender": "Mixed",
     "updated": true
   },
