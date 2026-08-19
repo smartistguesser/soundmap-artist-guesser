@@ -890,22 +890,22 @@
     "updated": true
   },
   {
-    "name": "Sia",
-    "debut": 2000,
-    "popularity": 113,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "AU",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Slayyyter",
     "debut": 2018,
     "popularity": 112,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Sia",
+    "debut": 2000,
+    "popularity": 113,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "AU",
     "gender": "Female",
     "updated": true
   },
@@ -970,6 +970,16 @@
     "updated": true
   },
   {
+    "name": "ADÉLA",
+    "debut": 2024,
+    "popularity": 125,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Ellie Goulding",
     "debut": 2010,
     "popularity": 129,
@@ -1000,16 +1010,6 @@
     "updated": true
   },
   {
-    "name": "ADÉLA",
-    "debut": 2024,
-    "popularity": 125,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Lola Young",
     "debut": 2019,
     "popularity": 133,
@@ -1030,16 +1030,6 @@
     "updated": true
   },
   {
-    "name": "Jon Bellion",
-    "debut": 2013,
-    "popularity": 136,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Maggie Lindemann",
     "debut": 2013,
     "popularity": 135,
@@ -1047,6 +1037,16 @@
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Jon Bellion",
+    "debut": 2013,
+    "popularity": 136,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1130,16 +1130,6 @@
     "updated": true
   },
   {
-    "name": "Stromae",
-    "debut": 2009,
-    "popularity": 152,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "BE",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "The Home Depot",
     "debut": 2019,
     "popularity": 151,
@@ -1147,6 +1137,16 @@
     "genre": "Pop",
     "country": "US",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Stromae",
+    "debut": 2009,
+    "popularity": 152,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "BE",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1220,16 +1220,6 @@
     "updated": true
   },
   {
-    "name": "Towa Bird",
-    "debut": 2024,
-    "popularity": 166,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Markiplier",
     "debut": 2016,
     "popularity": 165,
@@ -1237,6 +1227,16 @@
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Towa Bird",
+    "debut": 2024,
+    "popularity": 166,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -1360,20 +1360,20 @@
     "updated": true
   },
   {
-    "name": "Joshua Bassett",
-    "debut": 2019,
-    "popularity": 188,
-    "members": "Solo",
+    "name": "SAWTOWNE",
+    "debut": 2023,
+    "popularity": 187,
+    "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "SAWTOWNE",
-    "debut": 2023,
-    "popularity": 187,
-    "members": "Group",
+    "name": "Joshua Bassett",
+    "debut": 2019,
+    "popularity": 188,
+    "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
@@ -1450,22 +1450,22 @@
     "updated": true
   },
   {
-    "name": "Lizzo",
-    "debut": 2014,
-    "popularity": 198,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Lily Allen",
     "debut": 2006,
     "popularity": 197,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Lizzo",
+    "debut": 2014,
+    "popularity": 198,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -2900,22 +2900,22 @@
     "updated": true
   },
   {
-    "name": "Ty Dolla $ign",
-    "debut": 2011,
+    "name": "Nujabes",
+    "debut": 2003,
     "popularity": 147,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "US",
+    "country": "JP",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Nujabes",
-    "debut": 2003,
+    "name": "Ty Dolla $ign",
+    "debut": 2011,
     "popularity": 148,
     "members": "Solo",
     "genre": "HipHop",
-    "country": "JP",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -2966,7 +2966,7 @@
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -3100,9 +3100,9 @@
     "updated": true
   },
   {
-    "name": "Baby Smoove",
+    "name": "Pink Guy",
     "debut": 2017,
-    "popularity": 169,
+    "popularity": 168,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3110,7 +3110,7 @@
     "updated": true
   },
   {
-    "name": "Pink Guy",
+    "name": "Baby Smoove",
     "debut": 2017,
     "popularity": 169,
     "members": "Solo",
@@ -3200,8 +3200,8 @@
     "updated": true
   },
   {
-    "name": "Benny The Butcher",
-    "debut": 2015,
+    "name": "Moneybagg Yo",
+    "debut": 2016,
     "popularity": 178,
     "members": "Solo",
     "genre": "HipHop",
@@ -3210,8 +3210,8 @@
     "updated": true
   },
   {
-    "name": "Moneybagg Yo",
-    "debut": 2016,
+    "name": "Benny The Butcher",
+    "debut": 2015,
     "popularity": 179,
     "members": "Solo",
     "genre": "HipHop",
@@ -3230,8 +3230,8 @@
     "updated": true
   },
   {
-    "name": "Nino Paid",
-    "debut": 2023,
+    "name": "Lil Tony Official",
+    "debut": 2020,
     "popularity": 182,
     "members": "Solo",
     "genre": "HipHop",
@@ -3240,9 +3240,19 @@
     "updated": true
   },
   {
-    "name": "Lil Tony Official",
-    "debut": 2020,
+    "name": "Nino Paid",
+    "debut": 2023,
     "popularity": 183,
+    "members": "Solo",
+    "genre": "HipHop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Eem Triplin",
+    "debut": 2018,
+    "popularity": 184,
     "members": "Solo",
     "genre": "HipHop",
     "country": "US",
@@ -3252,16 +3262,6 @@
   {
     "name": "Diddy",
     "debut": 1997,
-    "popularity": 184,
-    "members": "Solo",
-    "genre": "HipHop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "EBK Jaaybo",
-    "debut": 2018,
     "popularity": 185,
     "members": "Solo",
     "genre": "HipHop",
@@ -3270,7 +3270,7 @@
     "updated": true
   },
   {
-    "name": "Eem Triplin",
+    "name": "EBK Jaaybo",
     "debut": 2018,
     "popularity": 186,
     "members": "Solo",
