@@ -5590,22 +5590,22 @@
     "updated": true
   },
   {
-    "name": "Coldplay",
-    "debut": 1999,
+    "name": "Jeff Buckley",
+    "debut": 1994,
     "popularity": 29,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Rock",
-    "country": "GB",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Jeff Buckley",
-    "debut": 1994,
+    "name": "Coldplay",
+    "debut": 1999,
     "popularity": 30,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
@@ -5780,22 +5780,22 @@
     "updated": true
   },
   {
-    "name": "Nickelback",
-    "debut": 1996,
+    "name": "Modern Baseball",
+    "debut": 2021,
     "popularity": 50,
     "members": "Group",
     "genre": "Rock",
-    "country": "CA",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Modern Baseball",
-    "debut": 2021,
+    "name": "Nickelback",
+    "debut": 1996,
     "popularity": 51,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "CA",
     "gender": "Male",
     "updated": true
   },
@@ -5952,7 +5952,7 @@
   {
     "name": "Panchiko",
     "debut": 2000,
-    "popularity": 68,
+    "popularity": 67,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
@@ -6060,8 +6060,8 @@
     "updated": true
   },
   {
-    "name": "Mötley Crüe",
-    "debut": 1981,
+    "name": "Breaking Benjamin",
+    "debut": 2002,
     "popularity": 79,
     "members": "Group",
     "genre": "Rock",
@@ -6070,8 +6070,8 @@
     "updated": true
   },
   {
-    "name": "Breaking Benjamin",
-    "debut": 2002,
+    "name": "Mötley Crüe",
+    "debut": 1981,
     "popularity": 80,
     "members": "Group",
     "genre": "Rock",
@@ -6130,23 +6130,23 @@
     "updated": true
   },
   {
-    "name": "Måneskin",
-    "debut": 2017,
-    "popularity": 86,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "IT",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "Depeche Mode",
     "debut": 1981,
-    "popularity": 87,
+    "popularity": 86,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Måneskin",
+    "debut": 2017,
+    "popularity": 87,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IT",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -6180,9 +6180,19 @@
     "updated": true
   },
   {
+    "name": "The Backseat Lovers",
+    "debut": 2018,
+    "popularity": 91,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Kurt Cobain",
     "debut": 2015,
-    "popularity": 91,
+    "popularity": 92,
     "members": "Solo",
     "genre": "Rock",
     "country": "US",
@@ -6190,9 +6200,9 @@
     "updated": true
   },
   {
-    "name": "The Backseat Lovers",
-    "debut": 2018,
-    "popularity": 92,
+    "name": "Aerosmith",
+    "debut": 1973,
+    "popularity": 93,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -6202,21 +6212,11 @@
   {
     "name": "Pixies",
     "debut": 1987,
-    "popularity": 93,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "Aerosmith",
-    "debut": 1973,
     "popularity": 94,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
-    "gender": "Male",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -6360,8 +6360,8 @@
     "updated": true
   },
   {
-    "name": "Wisp",
-    "debut": 2023,
+    "name": "Hayley Williams",
+    "debut": 2020,
     "popularity": 110,
     "members": "Solo",
     "genre": "Rock",
@@ -6370,8 +6370,8 @@
     "updated": true
   },
   {
-    "name": "Hayley Williams",
-    "debut": 2020,
+    "name": "Wisp",
+    "debut": 2023,
     "popularity": 111,
     "members": "Solo",
     "genre": "Rock",
@@ -6420,23 +6420,23 @@
     "updated": true
   },
   {
-    "name": "Poppy",
-    "debut": 2016,
-    "popularity": 116,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Black Country, New Road",
     "debut": 2021,
-    "popularity": 117,
+    "popularity": 116,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Poppy",
+    "debut": 2016,
+    "popularity": 117,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -6660,23 +6660,23 @@
     "updated": true
   },
   {
-    "name": "WWE",
-    "debut": 2004,
-    "popularity": 142,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "Tears For Fears",
     "debut": 1983,
-    "popularity": 143,
+    "popularity": 142,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "WWE",
+    "debut": 2004,
+    "popularity": 143,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -6700,8 +6700,8 @@
     "updated": true
   },
   {
-    "name": "McCafferty",
-    "debut": 2014,
+    "name": "\"Weird Al\" Yankovic",
+    "debut": 1983,
     "popularity": 146,
     "members": "Solo",
     "genre": "Rock",
@@ -6710,8 +6710,8 @@
     "updated": true
   },
   {
-    "name": "\"Weird Al\" Yankovic",
-    "debut": 1983,
+    "name": "McCafferty",
+    "debut": 2014,
     "popularity": 147,
     "members": "Solo",
     "genre": "Rock",
@@ -6750,23 +6750,23 @@
     "updated": true
   },
   {
-    "name": "WILLOW",
-    "debut": 2010,
-    "popularity": 152,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Good Kid",
     "debut": 2015,
-    "popularity": 153,
+    "popularity": 152,
     "members": "Group",
     "genre": "Rock",
     "country": "CA",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "WILLOW",
+    "debut": 2010,
+    "popularity": 153,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -6790,9 +6790,19 @@
     "updated": true
   },
   {
+    "name": "She Wants Revenge",
+    "debut": 2005,
+    "popularity": 156,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "salvia plath",
     "debut": 2013,
-    "popularity": 156,
+    "popularity": 157,
     "members": "Solo",
     "genre": "Rock",
     "country": "NZ",
@@ -6802,20 +6812,10 @@
   {
     "name": "Rush",
     "debut": 1974,
-    "popularity": 157,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "CA",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "She Wants Revenge",
-    "debut": 2005,
     "popularity": 158,
     "members": "Group",
     "genre": "Rock",
-    "country": "US",
+    "country": "CA",
     "gender": "Male",
     "updated": true
   },
@@ -6862,20 +6862,10 @@
   {
     "name": "Kings of Leon",
     "debut": 2003,
-    "popularity": 163,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Xdinary Heroes",
-    "debut": 2021,
     "popularity": 164,
     "members": "Group",
     "genre": "Rock",
-    "country": "KR",
+    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -6890,9 +6880,39 @@
     "updated": true
   },
   {
+    "name": "Xdinary Heroes",
+    "debut": 2021,
+    "popularity": 166,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "KR",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Have A Nice Life",
+    "debut": 2007,
+    "popularity": 167,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "James Marriott",
+    "debut": 2020,
+    "popularity": 168,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "The Stone Roses",
     "debut": 1987,
-    "popularity": 167,
+    "popularity": 169,
     "members": "Group",
     "genre": "Rock",
     "country": "GB",
@@ -6902,31 +6922,11 @@
   {
     "name": "I DONT KNOW HOW BUT THEY FOUND ME",
     "debut": 2017,
-    "popularity": 168,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "James Marriott",
-    "debut": 2020,
-    "popularity": 169,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Have A Nice Life",
-    "debut": 2007,
     "popularity": 170,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
-    "gender": "Male",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -7080,9 +7080,19 @@
     "updated": true
   },
   {
+    "name": "Gerard Way",
+    "debut": 2014,
+    "popularity": 187,
+    "members": "Solo",
+    "genre": "Rock",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "The White Stripes",
     "debut": 1998,
-    "popularity": 187,
+    "popularity": 188,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
@@ -7092,21 +7102,11 @@
   {
     "name": "Grateful Dead",
     "debut": 1967,
-    "popularity": 188,
+    "popularity": 189,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "Gerard Way",
-    "debut": 2014,
-    "popularity": 189,
-    "members": "Solo",
-    "genre": "Rock",
-    "country": "US",
-    "gender": "Male",
     "updated": true
   },
   {
@@ -7150,23 +7150,23 @@
     "updated": true
   },
   {
-    "name": "Inhaler",
-    "debut": 2018,
-    "popularity": 194,
-    "members": "Group",
-    "genre": "Rock",
-    "country": "IE",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Neutral Milk Hotel",
     "debut": 1996,
-    "popularity": 195,
+    "popularity": 194,
     "members": "Group",
     "genre": "Rock",
     "country": "US",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Inhaler",
+    "debut": 2018,
+    "popularity": 195,
+    "members": "Group",
+    "genre": "Rock",
+    "country": "IE",
+    "gender": "Male",
     "updated": true
   },
   {
