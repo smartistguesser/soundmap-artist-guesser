@@ -7480,22 +7480,22 @@
     "updated": true
   },
   {
-    "name": "Kehlani",
-    "debut": 2014,
+    "name": "RAYE",
+    "debut": 2016,
     "popularity": 29,
     "members": "Solo",
     "genre": "R&B",
-    "country": "US",
+    "country": "GB",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "RAYE",
-    "debut": 2016,
+    "name": "Kehlani",
+    "debut": 2014,
     "popularity": 30,
     "members": "Solo",
     "genre": "R&B",
-    "country": "GB",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -7650,23 +7650,23 @@
     "updated": true
   },
   {
-    "name": "6LACK",
-    "debut": 2016,
-    "popularity": 46,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Olivia Dean",
     "debut": 2019,
-    "popularity": 47,
+    "popularity": 46,
     "members": "Solo",
     "genre": "R&B",
     "country": "GB",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "6LACK",
+    "debut": 2016,
+    "popularity": 47,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -7700,20 +7700,20 @@
     "updated": true
   },
   {
-    "name": "Destiny's Child",
-    "debut": 1998,
+    "name": "Mariah the Scientist",
+    "debut": 2019,
     "popularity": 51,
-    "members": "Group",
+    "members": "Solo",
     "genre": "R&B",
     "country": "US",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "Mariah the Scientist",
-    "debut": 2019,
+    "name": "Destiny's Child",
+    "debut": 1998,
     "popularity": 52,
-    "members": "Solo",
+    "members": "Group",
     "genre": "R&B",
     "country": "US",
     "gender": "Female",
@@ -7790,9 +7790,29 @@
     "updated": true
   },
   {
+    "name": "Tinashe",
+    "debut": 2014,
+    "popularity": 61,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Dijon",
+    "debut": 2017,
+    "popularity": 62,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Jungle",
     "debut": 2013,
-    "popularity": 61,
+    "popularity": 63,
     "members": "Group",
     "genre": "R&B",
     "country": "GB",
@@ -7802,31 +7822,11 @@
   {
     "name": "Thee Sacred Souls",
     "debut": 2020,
-    "popularity": 62,
+    "popularity": 64,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Dijon",
-    "debut": 2017,
-    "popularity": 63,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Tinashe",
-    "debut": 2014,
-    "popularity": 64,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
     "updated": true
   },
   {
@@ -7860,23 +7860,23 @@
     "updated": true
   },
   {
-    "name": "Jeremih",
-    "debut": 2009,
-    "popularity": 69,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Ella Mai",
     "debut": 2016,
-    "popularity": 70,
+    "popularity": 69,
     "members": "Solo",
     "genre": "R&B",
     "country": "GB",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Jeremih",
+    "debut": 2009,
+    "popularity": 70,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -8000,22 +8000,22 @@
     "updated": true
   },
   {
-    "name": "Keyshia Cole",
-    "debut": 2004,
+    "name": "Cynthia Erivo",
+    "debut": 2015,
     "popularity": 83,
     "members": "Solo",
     "genre": "R&B",
-    "country": "US",
+    "country": "GB",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "Cynthia Erivo",
-    "debut": 2015,
+    "name": "Keyshia Cole",
+    "debut": 2004,
     "popularity": 84,
     "members": "Solo",
     "genre": "R&B",
-    "country": "GB",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -8050,23 +8050,23 @@
     "updated": true
   },
   {
-    "name": "Queen Naija",
-    "debut": 2018,
-    "popularity": 88,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "The Temptations",
     "debut": 1964,
-    "popularity": 89,
+    "popularity": 88,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Queen Naija",
+    "debut": 2018,
+    "popularity": 89,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -8150,20 +8150,20 @@
     "updated": true
   },
   {
-    "name": "John Legend",
-    "debut": 2003,
+    "name": "Khamari",
+    "debut": 2020,
     "popularity": 100,
-    "members": "Solo",
+    "members": "Group",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Khamari",
-    "debut": 2020,
+    "name": "John Legend",
+    "debut": 2003,
     "popularity": 101,
-    "members": "Group",
+    "members": "Solo",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
@@ -8210,19 +8210,9 @@
     "updated": true
   },
   {
-    "name": "Nina Simone",
-    "debut": 1959,
-    "popularity": 106,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Chris Grey",
     "debut": 2018,
-    "popularity": 107,
+    "popularity": 106,
     "members": "Solo",
     "genre": "R&B",
     "country": "CA",
@@ -8232,7 +8222,7 @@
   {
     "name": "Leon Bridges",
     "debut": 2015,
-    "popularity": 108,
+    "popularity": 107,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8240,9 +8230,19 @@
     "updated": true
   },
   {
+    "name": "Nina Simone",
+    "debut": 1959,
+    "popularity": 108,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Leslie Odom Jr.",
     "debut": 2014,
-    "popularity": 109,
+    "popularity": 110,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8252,7 +8252,7 @@
   {
     "name": "Vulfpeck",
     "debut": 2012,
-    "popularity": 112,
+    "popularity": 111,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
@@ -8292,7 +8292,7 @@
   {
     "name": "Masego",
     "debut": 2016,
-    "popularity": 117,
+    "popularity": 116,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8302,10 +8302,20 @@
   {
     "name": "Syd",
     "debut": 2017,
-    "popularity": 119,
+    "popularity": 118,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Jessie Reyez",
+    "debut": 2017,
+    "popularity": 119,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "CA",
     "gender": "Female",
     "updated": true
   },
@@ -8320,13 +8330,13 @@
     "updated": true
   },
   {
-    "name": "Chloe x Halle",
-    "debut": 2013,
+    "name": "The Jacksons",
+    "debut": 1976,
     "popularity": 121,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -8340,9 +8350,19 @@
     "updated": true
   },
   {
+    "name": "Chloe x Halle",
+    "debut": 2013,
+    "popularity": 123,
+    "members": "Group",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Luke Chiang",
     "debut": 2019,
-    "popularity": 123,
+    "popularity": 124,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8352,18 +8372,8 @@
   {
     "name": "Ginuwine",
     "debut": 1996,
-    "popularity": 124,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "The Jacksons",
-    "debut": 1976,
     "popularity": 125,
-    "members": "Group",
+    "members": "Solo",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
@@ -8380,9 +8390,19 @@
     "updated": true
   },
   {
+    "name": "Kelela",
+    "debut": 2013,
+    "popularity": 127,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Janelle Monáe",
     "debut": 2006,
-    "popularity": 127,
+    "popularity": 128,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8392,21 +8412,11 @@
   {
     "name": "starfall",
     "debut": 2021,
-    "popularity": 128,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Kelela",
-    "debut": 2013,
     "popularity": 129,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -8420,19 +8430,9 @@
     "updated": true
   },
   {
-    "name": "Chlöe",
-    "debut": 2021,
-    "popularity": 134,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Luther Vandross",
     "debut": 1979,
-    "popularity": 135,
+    "popularity": 134,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8440,9 +8440,19 @@
     "updated": true
   },
   {
+    "name": "Chlöe",
+    "debut": 2021,
+    "popularity": 135,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Jacob Collier",
     "debut": 2013,
-    "popularity": 137,
+    "popularity": 138,
     "members": "Solo",
     "genre": "R&B",
     "country": "GB",
@@ -8452,7 +8462,7 @@
   {
     "name": "JMSN",
     "debut": 2012,
-    "popularity": 138,
+    "popularity": 139,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8480,23 +8490,23 @@
     "updated": true
   },
   {
-    "name": "Halle",
-    "debut": 2023,
+    "name": "Mario",
+    "debut": 1982,
     "popularity": 142,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
-    "name": "Mario",
-    "debut": 1982,
+    "name": "Halle",
+    "debut": 2023,
     "popularity": 143,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -8580,8 +8590,8 @@
     "updated": true
   },
   {
-    "name": "Brenton Wood",
-    "debut": 1967,
+    "name": "SAILORR",
+    "debut": 2023,
     "popularity": 153,
     "members": "Solo",
     "genre": "R&B",
@@ -8590,8 +8600,8 @@
     "updated": true
   },
   {
-    "name": "SAILORR",
-    "debut": 2023,
+    "name": "Brenton Wood",
+    "debut": 1967,
     "popularity": 154,
     "members": "Solo",
     "genre": "R&B",
@@ -8650,9 +8660,19 @@
     "updated": true
   },
   {
+    "name": "thủy",
+    "debut": 2015,
+    "popularity": 160,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Tom Misch",
     "debut": 2014,
-    "popularity": 160,
+    "popularity": 161,
     "members": "Solo",
     "genre": "R&B",
     "country": "GB",
@@ -8660,9 +8680,9 @@
     "updated": true
   },
   {
-    "name": "thủy",
-    "debut": 2015,
-    "popularity": 161,
+    "name": "Donna Summer",
+    "debut": 1974,
+    "popularity": 162,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8672,7 +8692,7 @@
   {
     "name": "Mac Ayres",
     "debut": 2017,
-    "popularity": 162,
+    "popularity": 163,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8680,29 +8700,9 @@
     "updated": true
   },
   {
-    "name": "Donna Summer",
-    "debut": 1974,
-    "popularity": 165,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Lay Bankz",
-    "debut": 2020,
-    "popularity": 166,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Labi Siffre",
     "debut": 1970,
-    "popularity": 168,
+    "popularity": 166,
     "members": "Solo",
     "genre": "R&B",
     "country": "GB",
@@ -8710,22 +8710,22 @@
     "updated": true
   },
   {
-    "name": "Aya Nakamura",
-    "debut": 2016,
-    "popularity": 170,
+    "name": "Lay Bankz",
+    "debut": 2020,
+    "popularity": 167,
     "members": "Solo",
     "genre": "R&B",
-    "country": "FR",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "Kaash Paige",
-    "debut": 2019,
+    "name": "Aya Nakamura",
+    "debut": 2016,
     "popularity": 171,
     "members": "Solo",
     "genre": "R&B",
-    "country": "US",
+    "country": "FR",
     "gender": "Female",
     "updated": true
   },
@@ -8760,9 +8760,29 @@
     "updated": true
   },
   {
+    "name": "Laila!",
+    "debut": 2023,
+    "popularity": 175,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Kaash Paige",
+    "debut": 2019,
+    "popularity": 176,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "MIRRAR",
     "debut": 2024,
-    "popularity": 176,
+    "popularity": 177,
     "members": "Group",
     "genre": "R&B",
     "country": "DE",
@@ -8770,33 +8790,13 @@
     "updated": true
   },
   {
-    "name": "Laila!",
-    "debut": 2023,
-    "popularity": 177,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Keith Sweat",
     "debut": 1987,
-    "popularity": 178,
-    "members": "Solo",
-    "genre": "R&B",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "AUDREY NUNA",
-    "debut": 2018,
     "popularity": 179,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -8820,9 +8820,19 @@
     "updated": true
   },
   {
+    "name": "AUDREY NUNA",
+    "debut": 2018,
+    "popularity": 182,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Free Nationals",
     "debut": 2019,
-    "popularity": 182,
+    "popularity": 183,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
@@ -8832,7 +8842,7 @@
   {
     "name": "Cassie",
     "debut": 2006,
-    "popularity": 185,
+    "popularity": 184,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8852,7 +8862,7 @@
   {
     "name": "Mariya Takeuchi",
     "debut": 1984,
-    "popularity": 189,
+    "popularity": 188,
     "members": "Solo",
     "genre": "R&B",
     "country": "JP",
@@ -8902,7 +8912,7 @@
   {
     "name": "Black Pumas",
     "debut": 2019,
-    "popularity": 196,
+    "popularity": 198,
     "members": "Group",
     "genre": "R&B",
     "country": "US",
@@ -8922,7 +8932,7 @@
   {
     "name": "CeeLo Green",
     "debut": 2002,
-    "popularity": 198,
+    "popularity": 196,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
@@ -8933,6 +8943,16 @@
     "name": "Chezile",
     "debut": 2024,
     "popularity": 199,
+    "members": "Solo",
+    "genre": "R&B",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Fridayy",
+    "debut": 2022,
+    "popularity": 200,
     "members": "Solo",
     "genre": "R&B",
     "country": "US",
