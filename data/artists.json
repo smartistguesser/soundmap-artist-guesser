@@ -3830,23 +3830,23 @@
     "updated": true
   },
   {
-    "name": "Cuco",
-    "debut": 2016,
-    "popularity": 45,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Grimes",
     "debut": 2010,
-    "popularity": 46,
+    "popularity": 45,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Cuco",
+    "debut": 2016,
+    "popularity": 46,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -3880,13 +3880,13 @@
     "updated": true
   },
   {
-    "name": "Blood Orange",
-    "debut": 2011,
+    "name": "Jane Remover",
+    "debut": 2021,
     "popularity": 50,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -3900,13 +3900,13 @@
     "updated": true
   },
   {
-    "name": "Jane Remover",
-    "debut": 2021,
+    "name": "Blood Orange",
+    "debut": 2011,
     "popularity": 52,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -4152,7 +4152,7 @@
   {
     "name": "Penelope Scott",
     "debut": 2020,
-    "popularity": 79,
+    "popularity": 78,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4250,19 +4250,9 @@
     "updated": true
   },
   {
-    "name": "yeule",
-    "debut": 2014,
-    "popularity": 90,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "SG",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Basement",
     "debut": 2010,
-    "popularity": 91,
+    "popularity": 90,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
@@ -4270,19 +4260,19 @@
     "updated": true
   },
   {
-    "name": "hannah bahng",
-    "debut": 2023,
-    "popularity": 92,
+    "name": "yeule",
+    "debut": 2014,
+    "popularity": 91,
     "members": "Solo",
     "genre": "Indie",
-    "country": "AU",
+    "country": "SG",
     "gender": "Female",
     "updated": true
   },
   {
     "name": "EDEN",
     "debut": 2015,
-    "popularity": 93,
+    "popularity": 92,
     "members": "Solo",
     "genre": "Indie",
     "country": "IE",
@@ -4292,10 +4282,20 @@
   {
     "name": "Lyn Lapid",
     "debut": 2020,
-    "popularity": 94,
+    "popularity": 93,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "hannah bahng",
+    "debut": 2023,
+    "popularity": 94,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "AU",
     "gender": "Female",
     "updated": true
   },
@@ -4370,19 +4370,9 @@
     "updated": true
   },
   {
-    "name": "alexgoffline",
-    "debut": 2024,
-    "popularity": 102,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Ashe",
     "debut": 2017,
-    "popularity": 103,
+    "popularity": 102,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4390,9 +4380,19 @@
     "updated": true
   },
   {
+    "name": "alexgoffline",
+    "debut": 2024,
+    "popularity": 103,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Bleachers",
     "debut": 2014,
-    "popularity": 104,
+    "popularity": 105,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -4450,23 +4450,23 @@
     "updated": true
   },
   {
-    "name": "The xx",
-    "debut": 2009,
-    "popularity": 111,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "GB",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "The Microphones",
     "debut": 1998,
-    "popularity": 112,
+    "popularity": 111,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "The xx",
+    "debut": 2009,
+    "popularity": 112,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "GB",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -4610,22 +4610,22 @@
     "updated": true
   },
   {
-    "name": "HAIM",
-    "debut": 2012,
+    "name": "The Japanese House",
+    "debut": 2015,
     "popularity": 128,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Indie",
-    "country": "US",
+    "country": "GB",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "The Japanese House",
-    "debut": 2015,
+    "name": "HAIM",
+    "debut": 2012,
     "popularity": 129,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Indie",
-    "country": "GB",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
@@ -4710,9 +4710,19 @@
     "updated": true
   },
   {
+    "name": "Sub Urban",
+    "debut": 2019,
+    "popularity": 138,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "BETWEEN FRIENDS",
     "debut": 2017,
-    "popularity": 138,
+    "popularity": 139,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -4720,10 +4730,10 @@
     "updated": true
   },
   {
-    "name": "Sub Urban",
-    "debut": 2019,
-    "popularity": 139,
-    "members": "Solo",
+    "name": "The Hellp",
+    "debut": 2021,
+    "popularity": 140,
+    "members": "Group",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
@@ -4732,7 +4742,7 @@
   {
     "name": "EKKSTACY",
     "debut": 2020,
-    "popularity": 140,
+    "popularity": 141,
     "members": "Solo",
     "genre": "Indie",
     "country": "CA",
@@ -4740,59 +4750,9 @@
     "updated": true
   },
   {
-    "name": "The Hellp",
-    "debut": 2021,
-    "popularity": 141,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Kevin Kaarl",
-    "debut": 2018,
-    "popularity": 142,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "MX",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Los Retros",
-    "debut": 2019,
-    "popularity": 143,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "Searows",
-    "debut": 2022,
-    "popularity": 144,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "Alice Phoebe Lou",
-    "debut": 2016,
-    "popularity": 145,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ZA",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Oklou",
     "debut": 2014,
-    "popularity": 146,
+    "popularity": 142,
     "members": "Solo",
     "genre": "Indie",
     "country": "FR",
@@ -4800,23 +4760,63 @@
     "updated": true
   },
   {
-    "name": "LATIN MAFIA",
-    "debut": 2021,
-    "popularity": 147,
-    "members": "Group",
+    "name": "Kevin Kaarl",
+    "debut": 2018,
+    "popularity": 143,
+    "members": "Solo",
     "genre": "Indie",
     "country": "MX",
     "gender": "Male",
     "updated": true
   },
   {
+    "name": "Alice Phoebe Lou",
+    "debut": 2016,
+    "popularity": 144,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "ZA",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Searows",
+    "debut": 2022,
+    "popularity": 145,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Los Retros",
+    "debut": 2019,
+    "popularity": 146,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
     "name": "Elusin",
     "debut": 2019,
-    "popularity": 148,
+    "popularity": 147,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "LATIN MAFIA",
+    "debut": 2021,
+    "popularity": 148,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "MX",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -4830,23 +4830,23 @@
     "updated": true
   },
   {
-    "name": "Beach Weather",
-    "debut": 2016,
-    "popularity": 150,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "Natalia Lafourcade",
     "debut": 2002,
-    "popularity": 151,
+    "popularity": 150,
     "members": "Solo",
     "genre": "Indie",
     "country": "MX",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Beach Weather",
+    "debut": 2016,
+    "popularity": 151,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
     "updated": true
   },
   {
@@ -4860,9 +4860,19 @@
     "updated": true
   },
   {
+    "name": "venturing",
+    "debut": 2023,
+    "popularity": 153,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Saint Motel",
     "debut": 2009,
-    "popularity": 153,
+    "popularity": 154,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -4872,7 +4882,7 @@
   {
     "name": "yung kai",
     "debut": 2022,
-    "popularity": 154,
+    "popularity": 155,
     "members": "Solo",
     "genre": "Indie",
     "country": "PH",
@@ -4882,7 +4892,7 @@
   {
     "name": "Bruno Major",
     "debut": 2017,
-    "popularity": 155,
+    "popularity": 156,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -4892,7 +4902,7 @@
   {
     "name": "BENEE",
     "debut": 2017,
-    "popularity": 156,
+    "popularity": 157,
     "members": "Solo",
     "genre": "Indie",
     "country": "NZ",
@@ -4900,33 +4910,23 @@
     "updated": true
   },
   {
-    "name": "Finn Wolfhard",
-    "debut": 2025,
-    "popularity": 157,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "SE",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "venturing",
-    "debut": 2023,
+    "name": "Laura Shigihara",
+    "debut": 2010,
     "popularity": 158,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
-    "name": "Laura Shigihara",
-    "debut": 2010,
+    "name": "Finn Wolfhard",
+    "debut": 2025,
     "popularity": 159,
     "members": "Solo",
     "genre": "Indie",
-    "country": "US",
-    "gender": "Female",
+    "country": "SE",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -4960,13 +4960,13 @@
     "updated": true
   },
   {
-    "name": "Phoenix",
-    "debut": 1999,
+    "name": "Holly Humberstone",
+    "debut": 2020,
     "popularity": 164,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Indie",
-    "country": "FR",
-    "gender": "Male",
+    "country": "GB",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -4980,23 +4980,23 @@
     "updated": true
   },
   {
-    "name": "Holly Humberstone",
-    "debut": 2020,
+    "name": "Phoenix",
+    "debut": 1999,
     "popularity": 166,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Indie",
-    "country": "GB",
-    "gender": "Female",
+    "country": "FR",
+    "gender": "Male",
     "updated": true
   },
   {
-    "name": "The Drums",
-    "debut": 2009,
+    "name": "Nicole Dollaganger",
+    "debut": 2012,
     "popularity": 167,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
+    "country": "CA",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -5010,33 +5010,33 @@
     "updated": true
   },
   {
-    "name": "Nicole Dollaganger",
-    "debut": 2012,
+    "name": "The Drums",
+    "debut": 2009,
     "popularity": 169,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "CA",
-    "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Sophie Thatcher",
-    "debut": 2024,
-    "popularity": 172,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Indie",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
     "name": "Jhariah",
     "debut": 2018,
-    "popularity": 173,
+    "popularity": 172,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
     "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Sophie Thatcher",
+    "debut": 2024,
+    "popularity": 173,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -5060,22 +5060,22 @@
     "updated": true
   },
   {
-    "name": "Enya",
-    "debut": 1987,
+    "name": "PEGGY",
+    "debut": 2021,
     "popularity": 176,
     "members": "Solo",
     "genre": "Indie",
-    "country": "IE",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "PEGGY",
-    "debut": 2021,
+    "name": "Enya",
+    "debut": 1987,
     "popularity": 177,
     "members": "Solo",
     "genre": "Indie",
-    "country": "US",
+    "country": "IE",
     "gender": "Female",
     "updated": true
   },
@@ -5102,7 +5102,7 @@
   {
     "name": "Paolo Nutini",
     "debut": 2007,
-    "popularity": 180,
+    "popularity": 181,
     "members": "Solo",
     "genre": "Indie",
     "country": "GB",
@@ -5130,19 +5130,9 @@
     "updated": true
   },
   {
-    "name": "Rojuu",
-    "debut": 2017,
-    "popularity": 184,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "ES",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "The Favors",
     "debut": 2025,
-    "popularity": 185,
+    "popularity": 184,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
@@ -5150,19 +5140,19 @@
     "updated": true
   },
   {
-    "name": "Ginger Root",
+    "name": "Rojuu",
     "debut": 2017,
-    "popularity": 186,
+    "popularity": 185,
     "members": "Solo",
     "genre": "Indie",
-    "country": "US",
+    "country": "ES",
     "gender": "Male",
     "updated": true
   },
   {
     "name": "Luvcat",
     "debut": 2025,
-    "popularity": 187,
+    "popularity": 186,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5172,7 +5162,7 @@
   {
     "name": "Passion Pit",
     "debut": 2008,
-    "popularity": 188,
+    "popularity": 187,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5180,13 +5170,23 @@
     "updated": true
   },
   {
-    "name": "re6ce",
-    "debut": 2021,
+    "name": "Ginger Root",
+    "debut": 2017,
+    "popularity": 188,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Dead Calm",
+    "debut": 2023,
     "popularity": 189,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
-    "gender": "Nonbinary",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -5200,9 +5200,19 @@
     "updated": true
   },
   {
+    "name": "re6ce",
+    "debut": 2021,
+    "popularity": 191,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Nonbinary",
+    "updated": true
+  },
+  {
     "name": "The Postal Service",
     "debut": 2001,
-    "popularity": 191,
+    "popularity": 192,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5210,18 +5220,8 @@
     "updated": true
   },
   {
-    "name": "Dead Calm",
-    "debut": 2023,
-    "popularity": 192,
-    "members": "Solo",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Surfaces",
-    "debut": 2017,
+    "name": "Phantogram",
+    "debut": 2010,
     "popularity": 193,
     "members": "Group",
     "genre": "Indie",
@@ -5240,9 +5240,39 @@
     "updated": true
   },
   {
-    "name": "Phantogram",
-    "debut": 2010,
+    "name": "Surfaces",
+    "debut": 2017,
     "popularity": 195,
+    "members": "Group",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Evan Fong",
+    "debut": 2025,
+    "popularity": 196,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
+    "name": "Bella Kay",
+    "debut": 2025,
+    "popularity": 197,
+    "members": "Solo",
+    "genre": "Indie",
+    "country": "AU",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Fitz and The Tantrums",
+    "debut": 2009,
+    "popularity": 198,
     "members": "Group",
     "genre": "Indie",
     "country": "US",
@@ -5252,7 +5282,7 @@
   {
     "name": "King Princess",
     "debut": 2018,
-    "popularity": 196,
+    "popularity": 199,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -5260,19 +5290,9 @@
     "updated": true
   },
   {
-    "name": "Fitz and The Tantrums",
-    "debut": 2009,
-    "popularity": 197,
-    "members": "Group",
-    "genre": "Indie",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
     "name": "hard life",
     "debut": 2017,
-    "popularity": 198,
+    "popularity": 200,
     "members": "Group",
     "genre": "Indie",
     "country": "GB",
@@ -5282,7 +5302,7 @@
   {
     "name": "Eartheater",
     "debut": 2017,
-    "popularity": 199,
+    "popularity": 201,
     "members": "Solo",
     "genre": "Indie",
     "country": "US",
@@ -8910,10 +8930,10 @@
     "updated": true
   },
   {
-    "name": "Black Pumas",
-    "debut": 2019,
-    "popularity": 198,
-    "members": "Group",
+    "name": "CeeLo Green",
+    "debut": 2002,
+    "popularity": 196,
+    "members": "Solo",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
@@ -8930,10 +8950,10 @@
     "updated": true
   },
   {
-    "name": "CeeLo Green",
-    "debut": 2002,
-    "popularity": 196,
-    "members": "Solo",
+    "name": "Black Pumas",
+    "debut": 2019,
+    "popularity": 198,
+    "members": "Group",
     "genre": "R&B",
     "country": "US",
     "gender": "Male",
