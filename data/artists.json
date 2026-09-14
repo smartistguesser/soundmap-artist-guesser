@@ -180,19 +180,9 @@
     "updated": true
   },
   {
-    "name": "Rihanna",
-    "debut": 2005,
-    "popularity": 19,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "BB",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Tate McRae",
     "debut": 2017,
-    "popularity": 20,
+    "popularity": 19,
     "members": "Solo",
     "genre": "Pop",
     "country": "CA",
@@ -200,23 +190,33 @@
     "updated": true
   },
   {
-    "name": "Beyoncé",
-    "debut": 2002,
-    "popularity": 21,
+    "name": "Rihanna",
+    "debut": 2005,
+    "popularity": 20,
     "members": "Solo",
     "genre": "Pop",
-    "country": "US",
+    "country": "BB",
     "gender": "Female",
     "updated": true
   },
   {
     "name": "KATSEYE",
     "debut": 2024,
-    "popularity": 22,
+    "popularity": 21,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Mixed",
+    "updated": true
+  },
+  {
+    "name": "Beyoncé",
+    "debut": 2002,
+    "popularity": 22,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -442,7 +442,7 @@
   {
     "name": "Addison Rae",
     "debut": 2021,
-    "popularity": 49,
+    "popularity": 48,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -472,7 +472,7 @@
   {
     "name": "Pitbull",
     "debut": 2004,
-    "popularity": 53,
+    "popularity": 52,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -500,13 +500,13 @@
     "updated": true
   },
   {
-    "name": "AJ. & Big Justice",
-    "debut": 2024,
+    "name": "Magdalena Bay",
+    "debut": 2017,
     "popularity": 56,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
-    "gender": "Male",
+    "gender": "Female",
     "updated": true
   },
   {
@@ -520,13 +520,13 @@
     "updated": true
   },
   {
-    "name": "Magdalena Bay",
-    "debut": 2017,
+    "name": "AJ. & Big Justice",
+    "debut": 2024,
     "popularity": 58,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
-    "gender": "Female",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -552,7 +552,7 @@
   {
     "name": "OneRepublic",
     "debut": 2007,
-    "popularity": 65,
+    "popularity": 64,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -642,7 +642,7 @@
   {
     "name": "Zara Larsson",
     "debut": 2012,
-    "popularity": 77,
+    "popularity": 76,
     "members": "Solo",
     "genre": "Pop",
     "country": "SE",
@@ -652,7 +652,7 @@
   {
     "name": "Mariah Carey",
     "debut": 1990,
-    "popularity": 79,
+    "popularity": 80,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -670,22 +670,22 @@
     "updated": true
   },
   {
-    "name": "Wham!",
-    "debut": 1982,
+    "name": "Luke Hemmings",
+    "debut": 2021,
     "popularity": 82,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Pop",
-    "country": "GB",
+    "country": "AU",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "Luke Hemmings",
-    "debut": 2021,
+    "name": "Wham!",
+    "debut": 1982,
     "popularity": 83,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Pop",
-    "country": "AU",
+    "country": "GB",
     "gender": "Male",
     "updated": true
   },
@@ -700,23 +700,23 @@
     "updated": true
   },
   {
-    "name": "*NSYNC",
-    "debut": 1997,
-    "popularity": 86,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "Madonna",
     "debut": 1983,
-    "popularity": 88,
+    "popularity": 86,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "*NSYNC",
+    "debut": 1997,
+    "popularity": 87,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -730,22 +730,22 @@
     "updated": true
   },
   {
-    "name": "Shakira",
-    "debut": 1995,
+    "name": "Caroline Polachek",
+    "debut": 2019,
     "popularity": 91,
     "members": "Solo",
     "genre": "Pop",
-    "country": "CO",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "Caroline Polachek",
-    "debut": 2019,
+    "name": "Shakira",
+    "debut": 1995,
     "popularity": 92,
     "members": "Solo",
     "genre": "Pop",
-    "country": "US",
+    "country": "CO",
     "gender": "Female",
     "updated": true
   },
@@ -850,9 +850,29 @@
     "updated": true
   },
   {
+    "name": "Slayyyter",
+    "debut": 2018,
+    "popularity": 107,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "Whitney Houston",
     "debut": 1985,
-    "popularity": 107,
+    "popularity": 108,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "ADÉLA",
+    "debut": 2024,
+    "popularity": 109,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -862,7 +882,7 @@
   {
     "name": "Remi Wolf",
     "debut": 2019,
-    "popularity": 108,
+    "popularity": 110,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -872,7 +892,7 @@
   {
     "name": "Carly Rae Jepsen",
     "debut": 2008,
-    "popularity": 109,
+    "popularity": 112,
     "members": "Solo",
     "genre": "Pop",
     "country": "CA",
@@ -882,17 +902,7 @@
   {
     "name": "Meghan Trainor",
     "debut": 2014,
-    "popularity": 110,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Slayyyter",
-    "debut": 2018,
-    "popularity": 112,
+    "popularity": 113,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -902,21 +912,11 @@
   {
     "name": "Sia",
     "debut": 2000,
-    "popularity": 113,
+    "popularity": 114,
     "members": "Solo",
     "genre": "Pop",
     "country": "AU",
     "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Sam Smith",
-    "debut": 2013,
-    "popularity": 118,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
     "updated": true
   },
   {
@@ -930,9 +930,19 @@
     "updated": true
   },
   {
+    "name": "Sam Smith",
+    "debut": 2013,
+    "popularity": 120,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Gwen Stefani",
     "debut": 2004,
-    "popularity": 120,
+    "popularity": 121,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -942,7 +952,7 @@
   {
     "name": "Little Mix",
     "debut": 2012,
-    "popularity": 121,
+    "popularity": 122,
     "members": "Group",
     "genre": "Pop",
     "country": "GB",
@@ -950,9 +960,19 @@
     "updated": true
   },
   {
+    "name": "ConcernedApe",
+    "debut": 2016,
+    "popularity": 124,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "George Michael",
     "debut": 1987,
-    "popularity": 122,
+    "popularity": 125,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -960,29 +980,9 @@
     "updated": true
   },
   {
-    "name": "ConcernedApe",
-    "debut": 2016,
-    "popularity": 123,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "ADÉLA",
-    "debut": 2024,
-    "popularity": 125,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
-    "updated": true
-  },
-  {
     "name": "Ellie Goulding",
     "debut": 2010,
-    "popularity": 129,
+    "popularity": 130,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -1010,22 +1010,22 @@
     "updated": true
   },
   {
-    "name": "Lola Young",
-    "debut": 2019,
+    "name": "Kim Petras",
+    "debut": 2017,
     "popularity": 133,
     "members": "Solo",
     "genre": "Pop",
-    "country": "GB",
+    "country": "US",
     "gender": "Female",
     "updated": true
   },
   {
-    "name": "Kim Petras",
-    "debut": 2017,
+    "name": "Lola Young",
+    "debut": 2019,
     "popularity": 134,
     "members": "Solo",
     "genre": "Pop",
-    "country": "US",
+    "country": "GB",
     "gender": "Female",
     "updated": true
   },
@@ -1040,9 +1040,19 @@
     "updated": true
   },
   {
+    "name": "The Jackson 5",
+    "debut": 1969,
+    "popularity": 136,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Jon Bellion",
     "debut": 2013,
-    "popularity": 136,
+    "popularity": 137,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1052,20 +1062,10 @@
   {
     "name": "Michael Bublé",
     "debut": 2003,
-    "popularity": 137,
+    "popularity": 138,
     "members": "Solo",
     "genre": "Pop",
     "country": "CA",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "The Jackson 5",
-    "debut": 1969,
-    "popularity": 138,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
     "gender": "Male",
     "updated": true
   },
@@ -1082,18 +1082,8 @@
   {
     "name": "Labrinth",
     "debut": 2010,
-    "popularity": 142,
+    "popularity": 143,
     "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Nirvana",
-    "debut": 2003,
-    "popularity": 144,
-    "members": "Group",
     "genre": "Pop",
     "country": "GB",
     "gender": "Male",
@@ -1107,6 +1097,16 @@
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Nirvana",
+    "debut": 2003,
+    "popularity": 146,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "GB",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1142,7 +1142,7 @@
   {
     "name": "Stromae",
     "debut": 2009,
-    "popularity": 152,
+    "popularity": 153,
     "members": "Solo",
     "genre": "Pop",
     "country": "BE",
@@ -1162,7 +1162,7 @@
   {
     "name": "Tove Lo",
     "debut": 2014,
-    "popularity": 156,
+    "popularity": 158,
     "members": "Solo",
     "genre": "Pop",
     "country": "SE",
@@ -1172,7 +1172,7 @@
   {
     "name": "half•alive",
     "debut": 2017,
-    "popularity": 158,
+    "popularity": 159,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1180,9 +1180,9 @@
     "updated": true
   },
   {
-    "name": "Quinn XCII",
-    "debut": 2015,
-    "popularity": 159,
+    "name": "Markiplier",
+    "debut": 2016,
+    "popularity": 161,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1192,7 +1192,7 @@
   {
     "name": "Hailee Steinfeld",
     "debut": 2015,
-    "popularity": 160,
+    "popularity": 162,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
@@ -1200,9 +1200,19 @@
     "updated": true
   },
   {
+    "name": "Quinn XCII",
+    "debut": 2015,
+    "popularity": 163,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
+    "updated": true
+  },
+  {
     "name": "Enrique Iglesias",
     "debut": 1995,
-    "popularity": 161,
+    "popularity": 164,
     "members": "Solo",
     "genre": "Pop",
     "country": "ES",
@@ -1212,28 +1222,8 @@
   {
     "name": "JADE",
     "debut": 2024,
-    "popularity": 162,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "Markiplier",
-    "debut": 2016,
     "popularity": 165,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Towa Bird",
-    "debut": 2024,
-    "popularity": 166,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Pop",
     "country": "GB",
     "gender": "Female",
@@ -1242,10 +1232,20 @@
   {
     "name": "Christina Aguilera",
     "debut": 1999,
-    "popularity": 167,
+    "popularity": 166,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Towa Bird",
+    "debut": 2024,
+    "popularity": 167,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "GB",
     "gender": "Female",
     "updated": true
   },
@@ -1270,7 +1270,7 @@
     "updated": true
   },
   {
-    "name": "LAUV",
+    "name": "Lauv",
     "debut": 2017,
     "popularity": 174,
     "members": "Solo",
@@ -1282,21 +1282,11 @@
   {
     "name": "James Arthur",
     "debut": 2012,
-    "popularity": 175,
+    "popularity": 176,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
     "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Nelly Furtado",
-    "debut": 2000,
-    "popularity": 176,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "CA",
-    "gender": "Female",
     "updated": true
   },
   {
@@ -1306,6 +1296,16 @@
     "members": "Solo",
     "genre": "Pop",
     "country": "NZ",
+    "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "Nelly Furtado",
+    "debut": 2000,
+    "popularity": 179,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "CA",
     "gender": "Female",
     "updated": true
   },
@@ -1350,20 +1350,20 @@
     "updated": true
   },
   {
-    "name": "Puzzle",
-    "debut": 2014,
+    "name": "SAWTOWNE",
+    "debut": 2023,
     "popularity": 186,
-    "members": "Solo",
+    "members": "Group",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
     "updated": true
   },
   {
-    "name": "SAWTOWNE",
-    "debut": 2023,
+    "name": "Puzzle",
+    "debut": 2014,
     "popularity": 187,
-    "members": "Group",
+    "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Male",
@@ -1380,9 +1380,19 @@
     "updated": true
   },
   {
+    "name": "Mckenna Grace",
+    "debut": 2021,
+    "popularity": 189,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Female",
+    "updated": true
+  },
+  {
     "name": "LANY",
     "debut": 2015,
-    "popularity": 189,
+    "popularity": 190,
     "members": "Group",
     "genre": "Pop",
     "country": "US",
@@ -1392,21 +1402,11 @@
   {
     "name": "Sean Paul",
     "debut": 1999,
-    "popularity": 190,
+    "popularity": 191,
     "members": "Solo",
     "genre": "Pop",
     "country": "JM",
     "gender": "Male",
-    "updated": true
-  },
-  {
-    "name": "Mckenna Grace",
-    "debut": 2021,
-    "popularity": 191,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Female",
     "updated": true
   },
   {
@@ -1420,23 +1420,23 @@
     "updated": true
   },
   {
-    "name": "RuPaul",
-    "debut": 1992,
-    "popularity": 193,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Male",
-    "updated": true
-  },
-  {
     "name": "SIX",
     "debut": 2018,
-    "popularity": 195,
+    "popularity": 193,
     "members": "Group",
     "genre": "Pop",
     "country": "GB",
     "gender": "Female",
+    "updated": true
+  },
+  {
+    "name": "RuPaul",
+    "debut": 1992,
+    "popularity": 195,
+    "members": "Solo",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Male",
     "updated": true
   },
   {
@@ -1450,9 +1450,19 @@
     "updated": true
   },
   {
+    "name": "High School Musical Cast",
+    "debut": 2007,
+    "popularity": 197,
+    "members": "Group",
+    "genre": "Pop",
+    "country": "US",
+    "gender": "Mixed",
+    "updated": true
+  },
+  {
     "name": "Lily Allen",
     "debut": 2006,
-    "popularity": 197,
+    "popularity": 198,
     "members": "Solo",
     "genre": "Pop",
     "country": "GB",
@@ -1462,31 +1472,11 @@
   {
     "name": "Lizzo",
     "debut": 2014,
-    "popularity": 198,
+    "popularity": 199,
     "members": "Solo",
     "genre": "Pop",
     "country": "US",
     "gender": "Female",
-    "updated": true
-  },
-  {
-    "name": "High School Musical Cast",
-    "debut": 2007,
-    "popularity": 199,
-    "members": "Group",
-    "genre": "Pop",
-    "country": "US",
-    "gender": "Mixed",
-    "updated": true
-  },
-  {
-    "name": "Tom Odell",
-    "debut": 2012,
-    "popularity": 200,
-    "members": "Solo",
-    "genre": "Pop",
-    "country": "GB",
-    "gender": "Male",
     "updated": true
   },
   {
